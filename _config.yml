@@ -1,0 +1,32 @@
+title: Wanderland Travelers
+email: your-email@domain.com
+description: Wandering the world since 2016
+baseurl: ''
+url: 'http://wanderlandtravelers.com'
+video: naturalbridgeslapse.m4v
+banner-title: null
+banner-desc: null
+author-pic: face.jpg
+author-name: null
+about-author: null
+phone: (496)-169-6557
+website: 'https://dwayne.example.com'
+google_url: null
+twitter_url: null
+instagram_url: null
+pinterest_url: null
+dribbble_url: null
+facebook_url: null
+discus_identifier: mr-brown
+mailchimp: null
+analytics: null
+paginate: 12
+paginate_path: '/page:num/'
+markdown: kramdown
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+include:
+  - _pages
