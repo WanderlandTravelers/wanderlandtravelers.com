@@ -3951,9 +3951,11 @@ cite {
   font-weight: 700;
 }
 
-.main_header .logo span {
-  color: #c0334a;
-  font-weight: 400;
+.main_header .logo img {
+  width: 200px;
+  position: absolute;
+  top: -14px;
+  left: 10px;
 }
 
 .main_header nav a {
