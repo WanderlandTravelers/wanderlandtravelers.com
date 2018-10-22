@@ -33,6 +33,8 @@ GEM
       jekyll (~> 3.3)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
+    jekyll-default-layout (0.1.4)
+      jekyll (~> 3.0)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
     jekyll-paginate (1.1.0)
@@ -88,6 +90,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.4)
   jekyll-admin (~> 0.8)
+  jekyll-default-layout (~> 0.1)
   jekyll-feed (~> 0.6)
   jekyll-paginate (~> 1.1)
   jekyll-sitemap (~> 1.2)
