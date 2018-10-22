@@ -3842,6 +3842,11 @@ template {
   color: #999;
 }
 
+@font-face {
+  font-family: Everlast;
+  src: url(../fonts/Everlast.otf);
+}
+
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -3969,7 +3974,7 @@ cite {
 }
 
 #banner .content {
-  padding: 12rem 0 12rem 0;
+  padding: 11rem 0 11rem 0;
 }
 
 #banner .content .title, #banner .content .sub_title {
@@ -3978,7 +3983,9 @@ cite {
 }
 
 #banner .content .title {
-  font-size: 3.5rem;
+  font-family: Everlast;
+  font-size: 5rem;
+  letter-spacing: 6px;
   margin: 0 0 1rem 0;
 }
 
