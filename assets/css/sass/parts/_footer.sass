@@ -11,6 +11,18 @@
   li
     display: inline-block
     margin-left: 0.5rem
+    &.li-svg-icon
+      a
+        bottom: -1rem
+        position: relative
+        svg
+          height: 30px
+          display: block
+          path
+            fill: #7b7b7b
+            transition: all .35s ease-in-out
+        &:hover svg path
+          fill: $white
   a
     color: #7b7b7b
     display: inline-block

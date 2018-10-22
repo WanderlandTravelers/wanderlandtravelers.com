@@ -3982,6 +3982,8 @@ cite {
 
 #banner .content .sub_title {
   background: rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 6px;
+          border-radius: 6px;
   font-weight: 400;
   font-size: 1.35rem;
   margin: 0 auto 2rem auto;
@@ -4013,20 +4015,24 @@ cite {
 .chapters .chapter img {
   width: 100%;
   vertical-align: middle;
+  -webkit-transform: scale(1.5);
+      -ms-transform: scale(1.5);
+          transform: scale(1.5);
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
 }
 
-.chapters .chapter img:hover {
-  -webkit-transform: scale(1.5);
-      -ms-transform: scale(1.5);
-          transform: scale(1.5);
+.chapters .chapter a:first-child:hover + a img, .chapters .chapter img:hover {
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1);
 }
 
 .chapters .chapter_inner {
   position: absolute;
   left: 2.5%;
   bottom: 10%;
+  z-index: 100;
 }
 
 .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
@@ -4209,6 +4215,26 @@ cite {
   margin-left: 0.5rem;
 }
 
+.social_footer li.li-svg-icon a {
+  bottom: -1rem;
+  position: relative;
+}
+
+.social_footer li.li-svg-icon a svg {
+  height: 30px;
+  display: block;
+}
+
+.social_footer li.li-svg-icon a svg path {
+  fill: #7b7b7b;
+  -webkit-transition: all .35s ease-in-out;
+  transition: all .35s ease-in-out;
+}
+
+.social_footer li.li-svg-icon a:hover svg path {
+  fill: #ffffff;
+}
+
 .social_footer a {
   color: #7b7b7b;
   display: inline-block;
@@ -4306,6 +4332,10 @@ cite {
 
 .post .entry_content {
   padding-bottom: 2rem;
+}
+
+.post .entry_content img {
+  max-width: 100%;
 }
 
 .post_footer {
