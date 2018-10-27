@@ -3,15 +3,18 @@ layout: default
 ---
   {% include header.html %}
 
-  {% include banner.html %}
-
-  <main class="page-content" aria-label="Content">
-  <section class="chapters cf">
-      <div class="wrapper flex-row">
-      {{ content }}
+  <div id="content" class="site-content">
+    <div class="container">
+      <div class="row">
+        <div id="primary" class="col-md-9 content-area">
+          <main id="main" class="site-main" role="main">
+            {{ content }}
+          </main>
+        </div>
+        {% include sidebar.html %}
       </div>
-  </section>
-  </main>
+    </div>
+  </div>
 
   {% include pagination.html %}
 

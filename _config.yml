@@ -4,7 +4,17 @@ email: hello@wanderlandtravelers.com
 description: Wandering the world since 2016
 baseurl: ''
 url: 'http://wanderlandtravelers.com'
-video: naturalbridgeslapse.m4v
+header-img: P2220639web.jpg
+menu:
+  - id: home
+    name: Home
+    url: /
+  - id: sample-page
+    name: Sample Page
+    url: /sample-page
+  - id: contact
+    name: Contact
+    url: /contact
 banner-title: Wanderland Travelers
 banner-desc: null
 author-pic: face.jpg
