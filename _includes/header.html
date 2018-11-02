@@ -10,7 +10,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.name }}</a>
+          <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         </div><!-- .navbar-header -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul id="menu-primary-menu" class="primary-menu nav-menu" aria-expanded="false">
@@ -28,9 +28,14 @@
     <div class="site-header" style="background-image: url('/images/headers/{% if site.header-img %}{{ site.header-img }}{% else %}mountains.png{% endif %}');">
       <div class="site-branding">
         <a class="home-link" href="{{ '/' | relative_url }}" title="{{ site.name }}" rel="home">
-          <h1 class="site-title">{{ site.name }}</h1>
-          <h2 class="site-description">{% if site.description %}{{ site.description }}{% else %}Lorem ipsum dolor
-            amet{% endif %}</h2>
+          {% if site.logo %}
+            {{ site.logo }}
+          {% else %}
+            <h1 class="site-title">{{ site.title }}</h1>
+          {% endif %}
+          <h2 class="site-description">
+            {% if site.description %}{{ site.description }}{% else %}Lorem ipsum doloramet{% endif %}
+          </h2>
         </a>
       </div>
       <!--.site-branding-->

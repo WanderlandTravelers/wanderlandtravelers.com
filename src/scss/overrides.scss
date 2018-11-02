@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+* {
+    font-family: 'Open Sans' !important;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.main-navigation a.navbar-brand {
+    display: none;
+}
+
+.home-link img {
+    height: 200px;
+    margin-bottom: 0;
+    margin-top: -60px;
+}
