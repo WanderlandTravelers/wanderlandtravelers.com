@@ -1,12 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
-* {
-    font-family: 'Open Sans' !important;
-}
-
 h1, h2, h3, h4, h5 {
     font-family: 'Oswald', sans-serif !important;
+}
+
+body, button, input, select, textarea {
+    font-size: 15px !important;
+    font-weight: 300;
 }
 
 .main-navigation a.navbar-brand {
@@ -17,4 +18,8 @@ h1, h2, h3, h4, h5 {
     height: 200px;
     margin-bottom: 0;
     margin-top: -60px;
+}
+
+.entry-content, .entry-summary {
+    color: #101010;
 }
