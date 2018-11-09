@@ -50,8 +50,16 @@ analytics: null
 paginate: 12
 paginate_path: '/page:num/'
 markdown: kramdown
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: category-archive
+  permalinks:
+    category: '/category/:name/'
 plugins:
   - jekyll-admin
+  - jekyll-archives
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-paginate

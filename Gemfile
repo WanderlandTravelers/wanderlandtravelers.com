@@ -17,6 +17,7 @@ gem "jekyll", "~> 3.8.4"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-admin', "~> 0.8"
+  gem 'jekyll-archives', "~> 2.1.1"
   gem 'jekyll-default-layout', "~> 0.1"
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate", "~> 1.1"
