@@ -24,12 +24,12 @@ menu:
   - id: home
     name: Home
     url: /
-  - id: sample-page
-    name: Sample Page
-    url: /sample-page
-  - id: contact
-    name: Contact
-    url: /contact
+  - id: say-thanks
+    name: Say Thanks
+    url: https://ko-fi.com/wanderlandtravelers
+  - id: about-us
+    name: About Us
+    url: /about/
 permalink: pretty
 banner-title: Wanderland Travelers
 banner-desc: null
