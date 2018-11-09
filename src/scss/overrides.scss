@@ -1,6 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 
+@font-face {
+    font-family: Everlast;
+    src: url("../fonts/Everlast.otf") format("opentype");
+}
+
 h1, h2, h3, h4, h5 {
     font-family: 'Oswald', sans-serif !important;
 }
@@ -11,7 +16,10 @@ body, button, input, select, textarea {
 }
 
 .main-navigation a.navbar-brand {
-    display: none;
+  font-family: Everlast;
+  text-transform: none;
+  letter-spacing: 3px;
+  font-size: 30px !important;
 }
 
 .home-link img {
