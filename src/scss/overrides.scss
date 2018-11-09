@@ -35,3 +35,15 @@ body, button, input, select, textarea {
 .site-header {
     background-position-y: 39%;
 }
+
+figure {
+  img.has-caption {
+    margin-bottom: 5px;
+  }
+  figcaption {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 12px;
+    letter-spacing: 0.15px;
+  }
+}

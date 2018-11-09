@@ -2,7 +2,10 @@
   {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
   {% endif %}
-  <img src="/images/{{ include.img }}" alt="{{ include.title }}" />
+  <img
+    class="{% if include.caption %}has-caption {% endif %}"
+    src="/images/{{ include.img }}"
+    alt="{{ include.title }}" />
   {% if include.url %}
     </a>
   {% endif %}
