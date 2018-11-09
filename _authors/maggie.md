@@ -1,6 +1,6 @@
 ---
 title: Wanderland Maggie
-layout: post
+layout: page
 ---
 
 Hi, my name is Maggie

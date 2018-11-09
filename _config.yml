@@ -11,6 +11,11 @@ defaults:
     values:
       layout: "post"
       author: "maggie"
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
 collections:
   authors:
     output: true
@@ -25,6 +30,7 @@ menu:
   - id: contact
     name: Contact
     url: /contact
+permalink: pretty
 banner-title: Wanderland Travelers
 banner-desc: null
 author-pic: face.jpg
