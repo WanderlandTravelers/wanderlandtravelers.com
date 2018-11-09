@@ -5,6 +5,10 @@ description: Always keep moving, but not too fast
 baseurl: ''
 url: 'http://wanderlandtravelers.com'
 header-img: DSC_1725.jpg
+collections:
+  authors:
+    output: true
+    permalink: /author/:name/index
 menu:
   - id: home
     name: Home
