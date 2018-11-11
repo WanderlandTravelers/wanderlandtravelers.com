@@ -1,10 +1,10 @@
 {
-  "name": "Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
+  "name": "Wanderland-Travelers",
   "version": "1.0.0",
-  "description": "A starter project for Jekyll",
+  "description": "A blog for trtavelers",
   "main": "index.js",
-  "repository": "https://github.com/artemsheludko/Jekyll-Gulp-Sass-Autoprefixer-Imagemin-BrowserSync",
-  "author": "Artem Sheludko",
+  "repository": "https://github.com/WanderlandTravelers/wanderlandtravelers.com",
+  "author": "Wanderland Travelers",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^3.3.5",
@@ -23,5 +23,8 @@
     "html5shiv": "^3.7.3",
     "imagemin-pngquant": "^5.0.0",
     "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "sass": "^1.14.3"
   }
 }

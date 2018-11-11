@@ -7,13 +7,15 @@ url: 'http://wanderlandtravelers.com'
 header-img: DSC_1725.jpg
 defaults:
   - scope:
-      path: "_posts"
+      path: ""
+      type: "posts"
     values:
       layout: "post"
       author: "maggie"
 defaults:
   - scope:
-      path: "_pages"
+      path: ""
+      type: "pages"
     values:
       layout: "page"
 collections:
@@ -65,5 +67,13 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-youtube
+exclude:
+  - src
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - node_modules
+  - package.json
+  - package-lock.json
 include:
   - _pages
