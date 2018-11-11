@@ -13,6 +13,7 @@ var cp = require('child_process');
 var cssnano = require('gulp-cssnano');
 var sourcemaps = require('gulp-sourcemaps');
 var uglify = require('gulp-uglify');
+var watch = require('gulp-watch');
 
 sass.compiler = require('sass');
 
@@ -105,13 +106,22 @@ gulp.task('js', function () {
         .pipe(browserSync.reload({ stream: true }));
 });
 
+function pausableWatch(watchedFiles, tasks) {
+  var watcher = watch(watchedFiles, function() {
+    watcher.close();
+    gulp.start(tasks, function() {
+      pausableWatch(watchedFiles, tasks);
+    });
+  });
+}
+
 /**
- * Watch scss/js files for changes & recompile
+ * Watch img/scss/js files for changes & recompile
  */
 gulp.task('watch', function () {
-    gulp.watch(['images/**/*'], ['img']);
-    gulp.watch(['src/scss/*.scss', 'src/scss/*/*.scss'], ['sass']);
-    gulp.watch(['src/js/*.js'], ['js']);
+    pausableWatch(['images/**/*'], ['img']);
+    watch(['src/scss/*.scss', 'src/scss/*/*.scss'], ['sass']);
+    watch(['src/js/*.js'], ['js']);
 });
 
 /**
