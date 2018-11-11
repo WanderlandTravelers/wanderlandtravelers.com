@@ -57,7 +57,7 @@ gulp.task('img', function() {
 gulp.task('fonts', function () {
     return gulp.src([
         './node_modules/font-awesome/fonts/*',
-    ]).pipe(gulp.dest('assets/dist/πfonts/'));
+    ]).pipe(gulp.dest('assets/dist/fonts/'));
 });
 
 /**
