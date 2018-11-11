@@ -1,5 +1,8 @@
 var gulp = require('gulp');
 var browserSync = require('browser-sync');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
+var cache = require('gulp-cache');
 var clean = require('gulp-clean');
 var concat = require('gulp-concat');
 var fs = require('fs');
@@ -30,12 +33,25 @@ gulp.task('jekyllServe', function (done) {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browserSync', ['jekyllServe', 'fonts', 'sass', 'js'], function () {
+gulp.task('browserSync', ['jekyllServe', 'img', 'fonts', 'sass', 'js'], function () {
     browserSync({
         server: {
             baseDir: '_site'
         }
     });
+});
+
+// Compress images
+gulp.task('img', function() {
+  return gulp.src('images/**/*')
+    .pipe(cache(imagemin({
+      interlaced: true,
+      progressive: true,
+      svgoPlugins: [{removeViewBox: false}],
+      use: [pngquant()]
+    })))
+    .pipe(gulp.dest('images'))
+    .pipe(browserSync.reload({stream:true}));
 });
 
 gulp.task('fonts', function () {
@@ -93,6 +109,7 @@ gulp.task('js', function () {
  * Watch scss/js files for changes & recompile
  */
 gulp.task('watch', function () {
+    gulp.watch(['images/**/*'], ['img']);
     gulp.watch(['src/scss/*.scss', 'src/scss/*/*.scss'], ['sass']);
     gulp.watch(['src/js/*.js'], ['js']);
 });
