@@ -67,13 +67,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-youtube
-exclude:
-  - src
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - node_modules
-  - package.json
-  - package-lock.json
 include:
   - _pages
