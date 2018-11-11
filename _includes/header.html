@@ -26,19 +26,22 @@
     </nav>
     <div id="cc_spacer"></div><!-- used to clear fixed navigation by the themes js -->
     {% if page.layout != 'post' %}
-      <div class="site-header" style="background-image: url('/images/headers/{% if site.header-img %}{{ site.header-img }}{% else %}mountains.png{% endif %}');">
-        <div class="site-branding">
-          <a class="home-link" href="{{ '/' | relative_url }}" title="{{ site.name }}" rel="home">
-            {% if site.logo %}
-              {{ site.logo }}
-            {% else %}
-              <h1 class="site-title">{{ site.title }}</h1>
-            {% endif %}
-            <h2 class="site-description">
-              {% if site.description %}{{ site.description }}{% else %}Lorem ipsum doloramet{% endif %}
-            </h2>
-          </a>
-        </div><!--.site-branding-->
+      <div id="header-carousel" class="carousel site-header slide" data-pause="" data-interval="3000" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          {% for carousel_image in site.carousel_images %}
+            <li data-target="#header-carousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
+          {% endfor %}
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+          {% for carousel_image in site.carousel_images %}
+            <div class="item{% if forloop.first %} active{% endif %}">
+              <img src="{{ '/images/headers/' | append:base_url }}{{ carousel_image.file }}" alt="{{ carousel_image.alt }}">
+            </div>
+          {% endfor %}
+        </div>
       </div><!--.site-header-->
     {% endif %}
   </header>

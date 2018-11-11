@@ -4,7 +4,17 @@ email: hello@wanderlandtravelers.com
 description: Always keep moving, but not too fast
 baseurl: ''
 url: 'http://wanderlandtravelers.com'
-header-img: DSC_1725.jpg
+carousel_images:
+  - file: 1.Monuments.jpg
+    alt: Panoramic view of monument valley
+  - file: 2.FendyAZ.jpg
+    alt: Fendy in Arizona
+  - file: 3.Cacti.jpg
+    alt: Epic cacti
+  - file: 4.FendyPastels.jpg
+    alt: Fendy with beautiful pastels in the sky above
+  - file: 5.SealRock.jpg
+    alt: Enjoying seal rock
 defaults:
   - scope:
       path: ""
