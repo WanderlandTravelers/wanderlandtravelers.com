@@ -2,7 +2,7 @@
 layout: main
 ---
 
-<h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
+<h1>Archive of posts from {{ page.date | date: "%Y" }}</h1>
 
 {% for post in page.posts %}
   {% include post-item.html %}

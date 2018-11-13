@@ -65,8 +65,14 @@ markdown: kramdown
 jekyll-archives:
   enabled:
     - categories
+    - year
+    - month
+    - tags
   layouts:
     category: category-archive
+    year: year-archive
+    month: month-archive
+    tag: tag-archive
   permalinks:
     category: '/category/:name/'
 jekyll_search_url_blacklist:
