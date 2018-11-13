@@ -38,7 +38,7 @@ select,
 textarea {
     color: #424242 !important;
     font-size: 18px !important;
-    font-weight: 400;
+    font-weight: 400 !important;
     font-family: 'Source Sans Pro' !important;
 }
 
@@ -139,8 +139,8 @@ button,
 input,
 select,
 textarea {
-	font-size: 100%;
-	margin: 0;
+	font-size: 100% !important;
+	margin: 0 !important;
 	max-width: 100%;
 	vertical-align: baseline;
 }
@@ -226,7 +226,7 @@ input[type="submit"] {
     background:    -o-linear-gradient(#607d8b, #455a64);
     background:    -webkit-linear-gradient(#607d8b, #455a64);
     background:    linear-gradient(#607d8b, #455a64);
-    color:#fff;
+    color:#fff !important;
 }
 
 button:hover,
@@ -239,7 +239,7 @@ input[type="submit"]:hover {
     background:    -o-linear-gradient(#607d8b, #455a64);
     background:    -webkit-linear-gradient(#607d8b, #455a64);
     background:    linear-gradient(#607d8b, #455a64);
-    color:#fff;
+    color:#fff !important;
 }
 
 button:focus,
@@ -256,7 +256,7 @@ input[type="submit"]:active {
     background:    -o-linear-gradient(#607d8b, #455a64);
     background:    -webkit-linear-gradient(#607d8b, #455a64);
     background:    linear-gradient(#607d8b, #455a64);
-    color:#fff;
+    color:#fff !important;
 }
 
 input[type=text],
@@ -823,67 +823,67 @@ img.wp-post-image{
     text-align: center;
 }
 
-.site-header img {
+
+.site-header {
     background-attachment: scroll;
     background-position-x: center;
     background-position-y: top;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 0;
 }
 @media (min-width: 320px) and (max-width: 359px ) {
-    .site-header img {
-        height: 94px;
+    .site-header {
+        height: 80px;
     }
 }
 @media (min-width: 360px) and (max-width: 767px ) {
-    .site-header img {
-        height: 105px;
+    .site-header {
+        height: 90px;
     }
 }
 @media (min-width: 768px) and (max-width: 979px ) {
-    .site-header img {
-        height: 225px;
+    .site-header {
+        height: 192px;
     }
 }
 @media (min-width: 980px) and (max-width: 1279px ){
-    .site-header img {
-        height: 287px;
+    .site-header {
+        height: 245px;
     }
 }
 @media (min-width: 1280px) and (max-width: 1365px ){
-    .site-header img {
-        height: 375px;
+    .site-header {
+        height: 320px;
     }
 }
 @media (min-width: 1366px) and (max-width: 1439px ){
-    .site-header img {
-        height: 400px;
+    .site-header {
+        height: 341px;
     }
 }
 @media (min-width: 1440px) and (max-width: 1599px ) {
-    .site-header img {
-        height: 422px;
+    .site-header {
+        height: 360px;
     }
 }
 @media (min-width: 1600px) and (max-width: 1919px ) {
-    .site-header img {
-        height: 469px;
+    .site-header {
+        height: 400px;
     }
 }
 @media (min-width: 1920px) and (max-width: 2559px ) {
-    .site-header img {
-        height: 563px;
+    .site-header {
+        height: 480px;
     }
 }
 @media (min-width: 2560px)  and (max-width: 2879px ) {
-    .site-header img {
-        height: 750px;
+    .site-header {
+        height: 640px;
     }
 }
 @media (min-width: 2880px) {
-    .site-header img {
-        height: 844px;
+    .site-header {
+        height: 720px;
     }
 }
 .site-header{
@@ -1017,7 +1017,7 @@ a.home-link:hover {
     color: #424242;
 }
 
-.entry-summary > p:first-child::after {
+#main > article .entry-summary > p:first-child::after {
     content: "..";
     display: inline;
 }
@@ -1038,7 +1038,7 @@ a.home-link:hover {
     color: #212121;
 }
 
-.entry-meta{
+.entry-meta {
     clear: both;
     color: #727272;
     text-transform: capitalize;
@@ -1059,12 +1059,19 @@ a.home-link:hover {
     margin-bottom: 0px;
 }
 
-.entry-header .entry-meta::after{
+.entry-header .entry-meta::after {
     content:"";
     height: 2px;
     display: block;
     width: 50px;
     margin: 10px auto;
+}
+
+#secondary #search-sidebar-results {
+  .widget-title {
+    margin-top: 1.5em;
+    padding-top: 0;
+  }
 }
 
 

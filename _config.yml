@@ -69,6 +69,9 @@ jekyll-archives:
     category: category-archive
   permalinks:
     category: '/category/:name/'
+jekyll_search_url_blacklist:
+  - /
+  - /feed.xml
 plugins:
   - jekyll-admin
   - jekyll-archives
