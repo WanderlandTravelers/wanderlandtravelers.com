@@ -38,7 +38,7 @@
         <div class="carousel-inner" role="listbox">
           {% for carousel_image in site.carousel_images %}
             <div class="item{% if forloop.first %} active{% endif %}">
-              <img src="{{ '/images/headers/' | append:base_url }}{{ carousel_image.file }}" alt="{{ carousel_image.alt }}">
+              <img src="{{ '/images/headers/' | append:baseurl }}{{ carousel_image.file }}" alt="{{ carousel_image.alt }}">
             </div>
           {% endfor %}
         </div>
