@@ -25,7 +25,7 @@ var messages = {
 /**
  * Build the Jekyll Site
  */
-gulp.task('jekyllServe', function (done) {
+gulp.task('jekyllServe', ['img', 'fonts', 'sass', 'js'], function (done) {
     browserSync.notify(messages.jekyllServe);
     return cp.spawn('bundle', ['exec', jekyll, 'serve'], { stdio: 'inherit' })
         .on('close', done);
@@ -34,7 +34,7 @@ gulp.task('jekyllServe', function (done) {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browserSync', ['jekyllServe', 'img', 'fonts', 'sass', 'js'], function () {
+gulp.task('browserSync', ['jekyllServe'], function () {
     browserSync({
         server: {
             baseDir: '_site'
