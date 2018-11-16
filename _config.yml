@@ -89,11 +89,13 @@ plugins:
 include:
   - _pages
 exclude:
+  - bin
   - src
   - gulpfile.js
   - changelog.txt
   - screenshot.png
-  - readme.txt
+  - LICENSE-layout.txt
+  - README.md
   - Gemfile
   - Gemfile.lock
   - package.json
