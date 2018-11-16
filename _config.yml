@@ -31,6 +31,8 @@ defaults:
 collections:
   authors:
     output: true
+  author_snippets:
+    output: false
 menu:
   - id: home
     name: Home
