@@ -31,7 +31,6 @@ defaults:
 collections:
   authors:
     output: true
-    permalink: /author/:name/index
 menu:
   - id: home
     name: Home
@@ -78,6 +77,7 @@ jekyll-archives:
 jekyll_search_url_blacklist:
   - /
   - /feed.xml
+  - /search/
 plugins:
   - jekyll-admin
   - jekyll-archives
@@ -88,3 +88,15 @@ plugins:
   - jekyll-youtube
 include:
   - _pages
+exclude:
+  - src
+  - gulpfile.js
+  - changelog.txt
+  - screenshot.png
+  - readme.txt
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor
