@@ -4,7 +4,7 @@
 }
 
 body, button, input, select, textarea {
-    font-size: 15px !important;
+    font-size: 17px !important;
     font-weight: 300;
 }
 
@@ -30,9 +30,16 @@ figure {
     margin-bottom: 5px;
   }
   figcaption {
-    font-weight: bold;
-    margin-bottom: 10px;
-    font-size: 12px;
+    margin-bottom: 15px;
+    font-size: 14px;
     letter-spacing: 0.15px;
+    background: #101010;
+    padding: 10px;
+    color: white;
+    border-top: solid 1px white;
   }
+}
+
+figure + figure {
+  padding-top: 5px;
 }
