@@ -122,8 +122,8 @@ function pausableWatch(watchedFiles, tasks) {
  */
 gulp.task('watch', function () {
     pausableWatch(['images/**/*'], ['img']);
-    watch(['src/scss/*.scss', 'src/scss/*/*.scss'], ['sass']);
-    watch(['src/js/*.js'], ['js']);
+    pausableWatch(['src/scss/*.scss', 'src/scss/*/*.scss'], ['sass']);
+    pausableWatch(['src/js/*.js'], ['js']);
 });
 
 /**
