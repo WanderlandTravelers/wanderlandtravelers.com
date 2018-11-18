@@ -78,8 +78,13 @@ jekyll-archives:
     category: '/category/:name/'
 jekyll_search_url_blacklist:
   - /
+  - /404.html
   - /feed.xml
+  - /robots.txt
+  - /sitemap.xml
+  - /search.json
   - /search/
+  - /author_snippets/maggie/
 plugins:
   - jekyll-admin
   - jekyll-archives
