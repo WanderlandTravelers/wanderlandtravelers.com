@@ -45,3 +45,39 @@ figure {
 figure + figure {
   padding-top: 5px;
 }
+
+.author-snippet-img, .author-snippet-content {
+  float: left;
+  position: relative;
+  display: inline-block;
+}
+
+.author-snippet {
+  background: white;
+  margin-bottom: 2em;
+  display: inline-block;
+  padding: 1em 1.8em 1em;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  text-align: justify;
+
+  div.author-snippet-img {
+    margin-top: 0.5em;
+    width: 20%;
+
+    a {
+      border-radius: 50%;
+      display: block;
+      overflow: hidden;
+    }
+
+    img {
+      margin-bottom: 0;
+      height: 100%;
+      width: 100%;
+    }
+  }
+  div.author-snippet-content {
+    padding-left: 1.8em;
+    width: 80%;
+  }
+}
