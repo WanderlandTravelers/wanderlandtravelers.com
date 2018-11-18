@@ -1,3 +1,5 @@
+$black: #101010;
+
 @font-face {
     font-family: Everlast;
     src: url("../../fonts/Everlast.otf") format("opentype");
@@ -22,7 +24,7 @@ body, button, input, select, textarea {
 }
 
 .entry-content, .entry-summary {
-    color: #101010;
+    color: $black;
 }
 
 figure {
@@ -33,7 +35,7 @@ figure {
     margin-bottom: 15px;
     font-size: 14px;
     letter-spacing: 0.15px;
-    background: #101010;
+    background: lighten($black, 10%);
     padding: 10px;
     color: white;
     border-top: solid 1px white;
