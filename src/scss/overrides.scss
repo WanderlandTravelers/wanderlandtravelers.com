@@ -15,6 +15,11 @@ body, button, input, select, textarea {
   text-transform: none;
   letter-spacing: 3px;
   font-size: 30px !important;
+  background-image: url(../../../images/logo.png);
+  background-position: 0;
+  background-size: 300px;
+  background-repeat: no-repeat;
+  color: transparent;
 }
 
 .home-link img {
@@ -153,5 +158,11 @@ figure + figure {
 @media (max-width: 416px) {
   .site-header {
     min-height: 76px !important;
+  }
+}
+@media (max-width: 345px) {
+  .main-navigation a.navbar-brand {
+    background-size: 260px;
+    font-size: 26px !important;
   }
 }
