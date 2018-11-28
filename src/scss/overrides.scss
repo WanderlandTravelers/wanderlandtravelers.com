@@ -45,3 +45,95 @@ figure {
 figure + figure {
   padding-top: 5px;
 }
+
+.author-snippet-img, .author-snippet-content {
+  float: left;
+  position: relative;
+  display: inline-block;
+}
+
+.author-snippet {
+  background: white;
+  margin-bottom: 2em;
+  display: inline-block;
+  padding: 1em 1.8em 1em;
+  box-shadow: 0 0 1px rgba(0,0,0,.15);
+  text-align: justify;
+
+  div.author-snippet-img {
+    margin-top: 0.5em;
+    width: 20%;
+
+    a {
+      border-radius: 50%;
+      display: block;
+      overflow: hidden;
+    }
+
+    img {
+      margin-bottom: 0;
+      height: 100%;
+      width: 100%;
+    }
+  }
+  div.author-snippet-content {
+    padding-left: 1.8em;
+    width: 80%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 359px ) {
+    .site-header, .site-header img {
+        height: 80px !important;
+    }
+}
+@media (min-width: 360px) and (max-width: 767px ) {
+    .site-header, .site-header img {
+        height: 90px !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 979px ) {
+    .site-header, .site-header img {
+        height: 192px !important;
+    }
+}
+@media (min-width: 980px) and (max-width: 1279px ){
+    .site-header, .site-header img {
+        height: 245px !important;
+    }
+}
+@media (min-width: 1280px) and (max-width: 1365px ){
+    .site-header, .site-header img {
+        height: 320px !important;
+    }
+}
+@media (min-width: 1366px) and (max-width: 1439px ){
+    .site-header, .site-header img {
+        height: 341px !important;
+    }
+}
+@media (min-width: 1440px) and (max-width: 1599px ) {
+    .site-header, .site-header img {
+        height: 360px !important;
+    }
+}
+@media (min-width: 1600px) and (max-width: 1919px ) {
+    .site-header, .site-header img {
+        height: 400px !important;
+    }
+}
+@media (min-width: 1920px) and (max-width: 2559px ) {
+    .site-header, .site-header img {
+        height: 480px !important;
+    }
+}
+@media (min-width: 2560px)  and (max-width: 2879px ) {
+    .site-header, .site-header img {
+        height: 640px !important;
+    }
+}
+@media (min-width: 2880px) {
+    .site-header, .site-header img {
+        height: 720px !important;
+    }
+}

@@ -1103,34 +1103,6 @@ section.comment_area {
     padding-bottom: 2.5em;
 }
 
-#author-snippet, .author-snippet-img, .author-snippet-content {
-  height: 100px;
-}
-
-.author-snippet-img, .author-snippet-content {
-  float: left;
-  position: relative;
-  display: inline-block;
-}
-
-#author-snippet {
-  margin-top: 3em;
-
-  div.author-snippet-img {
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-
-    img {
-      margin-bottom: 0;
-      height: 100%;
-    }
-  }
-  div.author-snippet-content {
-    padding-left: 2em;
-  }
-}
-
 #category{
     margin-top: 1em;
     margin-bottom: 1em;

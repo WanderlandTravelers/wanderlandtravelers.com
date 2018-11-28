@@ -50,32 +50,10 @@ layout: main
   </div><!-- .entry-content -->
 
   <footer class="entry-footer">
-    {% for author_snippet in site.author_snippets %}
-      {% assign snippet_id = author_snippet.id | remove_first:"/author_snippets/" %}
-      {% if snippet_id == page.author %}
-        <div id="author-snippet" class="vcard">
-          <div class="author-snippet-img">
-            <a href="{{ '/authors/' | prepend: site.baseurl | append: page.author }}">
-              <img
-                src="{{ site.baseurl }}/images/{{ author_snippet.image }}"
-                alt="Image of {{ author_snippet.title }}">
-            </a>
-          </div>
-          <div class="author-snippet-content">
-            <a
-              class="url fn"
-              href="{{ '/authors/' | prepend: site.baseurl | append: page.author }}">
-              <h4>{{ author_snippet.title }}</h4>
-            </a>
-            <div>
-              {{ author_snippet.content | markdownify }}
-            </div>
-          </div>
-        </div>
-      {% endif %}
-    {% endfor %}
   </footer><!-- .entry-footer -->
 </article><!-- #post-## -->
+
+{% include author-snippet.html %}
 
 {% include post-navigation.html %}
 
