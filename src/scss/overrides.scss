@@ -20,6 +20,10 @@ body, button, input, select, textarea {
   background-size: 300px;
   background-repeat: no-repeat;
   color: transparent;
+
+  &:hover {
+    color: transparent;
+  }
 }
 
 .home-link img {
@@ -96,6 +100,11 @@ figure + figure {
 }
 
 
+@media (min-width: 1366px) and (max-width: 1439px ){
+    .site-header {
+        height: 326px;
+    }
+}
 @media (min-width: 1280px) and (max-width: 1365px ){
     .site-header {
         height: 307px;
