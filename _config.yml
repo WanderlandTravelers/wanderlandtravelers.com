@@ -59,7 +59,7 @@ dribbble_url: null
 facebook_url: null
 discus_identifier: http-wanderlandtravelers-com
 mailchimp: null
-analytics: null
+analytics: 'UA-78209422-2' 
 paginate: 12
 paginate_path: '/page:num/'
 markdown: kramdown
