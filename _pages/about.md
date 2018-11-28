@@ -37,6 +37,8 @@ Favorite travel quotes:
 * ‘Travel is about the gorgeous feeling of teetering in the unknown’ ~Anthony Bourdain
 * ‘Because in the end, you won’t remember the time you spent working in the office or mowing your lawn. Climb that goddamn mountain’ ~Jack Kerouac
 
+You can read even more quirks and fun facts about me [here](https://wanderlandtravelers.com/authors/maggie/)
+
 ***Brad here – a little bit more about me!***
 
 ![Man on fly board watercraft](/images/BFlyBoard.jpg)
