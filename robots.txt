@@ -1,1 +1,1 @@
-Sitemap: http://wanderlandtravelers.com/sitemap.xml
+Sitemap: https://wanderlandtravelers.com/sitemap.xml
