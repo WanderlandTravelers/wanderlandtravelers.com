@@ -160,6 +160,18 @@ figure + figure {
     min-height: 76px !important;
   }
 }
+@media (max-width: 450px) {
+  .author-snippet {
+    div.author-snippet-img {
+      width: 50%;
+      margin: 0 25%;
+    }
+    div.author-snippet-content {
+      padding-left: 0;
+      width: 100%;
+    }
+  }
+}
 @media (max-width: 345px) {
   .main-navigation a.navbar-brand {
     background-size: 260px;
