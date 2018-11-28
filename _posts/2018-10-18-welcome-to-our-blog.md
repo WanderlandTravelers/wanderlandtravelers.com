@@ -17,7 +17,7 @@ Hi there and welcome to our little blog. We figured it was about time that we ad
 {% include image.html img="MaggieStGeo.jpg" title="Woman and red rock cliffs" caption="Me deciding if I should literally take the leap" %}
 
 
-I love that with this written component people will be able to do keyword searches and easily find the info they're looking for, as opposed to our main content arena: YouTube. You can gleam a fair bit from our video descriptions but you'd kind of have to watch through a whole video to catch all the little tips we throw out there. But be sure to still check the videos out too! Making videos of our travels is definitely a passion of mine and we seriously end up capturing some pretty spactular footage: starlapses, moonrises, wildlife, and just a more intimate look at our traveling life.
+I love that with this written component people will be able to do keyword searches and easily find the info they're looking for, as opposed to our main content arena: YouTube. You can gleam a fair bit from our video descriptions but you'd kind of have to watch through a whole video to catch all the little tips we throw out there. But be sure to still check the videos out too! Making videos of our travels is definitely a passion of mine and we seriously end up capturing some pretty spectacular footage: starlapses, moonrises, wildlife, and those funny little moments that just don't translate into writing.
 
 {% include image.html img="DesertStars.jpg" title="Long exposure photo of star movement" caption="Winter nights in the Anza Borrego Desert" %}
 
@@ -38,5 +38,3 @@ I expect that this blog will evolve over time and hopefully my voice and writing
 
 
 Until next time~
-
-Maggie
