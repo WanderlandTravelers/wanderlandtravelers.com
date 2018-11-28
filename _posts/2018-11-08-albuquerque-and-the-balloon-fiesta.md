@@ -3,7 +3,6 @@ title: Albuquerque and the Balloon Fiesta
 layout: post
 date: '2018-11-08 18:10:47'
 description: Alburquerque and the Balloon Fiesta
-category: Our Travels
 New field 9: New Mexico
 author: maggie
 subtitle: A QUICK TWO DAY STAY
