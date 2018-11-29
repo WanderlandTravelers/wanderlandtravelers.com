@@ -3,11 +3,12 @@ title: Boondocking at Indian Bread Rocks
 layout: post
 date: '2018-11-20 21:38:30'
 description: Free BLM camping in southern Arizona at Indian Bread Rocks
-category: Free Camping
-New field 6: Arizona
+category:
+- Free Camping
+- Arizona
+- Favorite Campsites
 author: maggie
 img: BRFendy.jpg
-New field 2: Favorite Campsites
 ---
 
 So we actually first learned of this spot from fellow RVer’s Drivin & Vibin. It was probably a year ago that we watched a video of their favorite free campsites and Indian Bread Rocks was on there. I added it to our adventure list back then, not knowing when we'd fit it into our travels, but sure enough as we were leaving Albuqurque after the Balloon Fiesta this year, we saw that it was the perfect time to visit this area.
