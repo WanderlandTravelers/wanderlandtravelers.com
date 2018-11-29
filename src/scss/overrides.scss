@@ -22,6 +22,7 @@ body, button, input, select, textarea {
   background-size: 300px;
   background-repeat: no-repeat;
   color: transparent;
+  width: 300px;
 
   &:hover {
     color: transparent;
@@ -117,5 +118,6 @@ figure + figure {
   .main-navigation a.navbar-brand {
     background-size: 275px;
     font-size: 19px !important;
+    width: 275px;
   }
 }
