@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://wanderlandtravelers.com/authors/maggie/</loc>
-<lastmod>2018-11-29T06:46:55+00:00</lastmod>
+<lastmod>2018-11-29T17:54:07+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/10/18/welcome-to-our-blog/</loc>
@@ -23,6 +23,10 @@
 <url>
 <loc>https://wanderlandtravelers.com/new%20mexico/2018/11/10/beach-camping-in-new-mexico/</loc>
 <lastmod>2018-11-10T18:10:47+00:00</lastmod>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/free%20camping/2018/11/20/boondocking-at-indian-bread-rocks/</loc>
+<lastmod>2018-11-20T21:38:30+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/about/</loc>
@@ -65,6 +69,9 @@
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/category/new-mexico/</loc>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/category/free-camping/</loc>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/</loc>
