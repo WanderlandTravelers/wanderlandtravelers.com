@@ -1,20 +1,22 @@
 $black: #101010;
 
-@font-face {
-    font-family: Everlast;
-    src: url("../../fonts/Everlast.otf") format("opentype");
-}
-
 body, button, input, select, textarea {
     font-size: 17px !important;
     font-weight: 300;
+}
+
+.site-header {
+  background-color: #eceff1 !important;
+  box-shadow: initial !important;
+  min-height: initial !important;
+  height: initial !important;
 }
 
 .main-navigation a.navbar-brand {
   font-family: Everlast;
   text-transform: none;
   letter-spacing: 3px;
-  font-size: 30px !important;
+  font-size: 22px !important;
   background-image: url(../../../images/logo.png);
   background-position: 0;
   background-size: 300px;
@@ -56,7 +58,6 @@ figure + figure {
 }
 
 .author-snippet-img, .author-snippet-content {
-  float: left;
   position: relative;
   display: inline-block;
 }
@@ -99,84 +100,6 @@ figure + figure {
   margin-bottom: 2em;
 }
 
-
-@media (min-width: 1366px) and (max-width: 1439px ){
-    .site-header {
-        height: 326px;
-    }
-}
-@media (min-width: 1280px) and (max-width: 1365px ){
-    .site-header {
-        height: 307px;
-    }
-}
-@media (min-width: 980px) and (max-width: 1279px ){
-    .site-header {
-        height: 235px;
-    }
-}
-@media (min-width: 768px) and (max-width: 979px ) {
-    .site-header {
-        height: 185px;
-    }
-}
-@media (min-width: 629px) and (max-width: 767px ) {
-    .site-header {
-        height: 150px !important;
-    }
-}
-@media (max-width: 767px) {
-    .site-header {
-      min-height: 150px !important;
-    }
-    .carousel-indicators {
-      bottom: 0px !important;
-    }
-    .carousel-indicators li, .carousel-indicators .active {
-      height: 8px !important;
-      width: 8px !important;
-    }
-}
-@media (min-width: 507px) and (max-width: 628px ) {
-    .site-header {
-      height: 120px !important;
-    }
-}
-@media (max-width: 628px) {
-  .site-header {
-    min-height: 120px !important;
-  }
-}
-@media (min-width: 507px) and (max-width: 628px ) {
-    .site-header {
-      height: 120px !important;
-    }
-}
-@media (max-width: 628px) {
-  .site-header {
-    min-height: 120px !important;
-  }
-}
-@media (min-width: 417px) and (max-width: 506px ) {
-    .site-header {
-      height: 100px !important;
-    }
-}
-@media (max-width: 506px) {
-  .site-header {
-    min-height: 100px !important;
-  }
-}
-@media (min-width: 320px) and (max-width: 416px ) {
-    .site-header {
-      height: 76px !important;
-    }
-}
-@media (max-width: 416px) {
-  .site-header {
-    min-height: 76px !important;
-  }
-}
 @media (max-width: 450px) {
   .author-snippet {
     div.author-snippet-img {
@@ -189,9 +112,10 @@ figure + figure {
     }
   }
 }
-@media (max-width: 345px) {
+
+@media (max-width: 360px) {
   .main-navigation a.navbar-brand {
-    background-size: 260px;
-    font-size: 26px !important;
+    background-size: 275px;
+    font-size: 19px !important;
   }
 }
