@@ -9,7 +9,7 @@ Hi! We’re Brad and Maggie and we’re just a couple of fun-loving adventure se
 
 ![Two Chihuahuas](/images/COPnP.jpg)
 
-Our current rig is a 2003 Fleetwood Bounder class A motorhome. We recently upgraded our tow car to a manual 4x4 2010 Nissan Xterra and for recreation gear we have bikes, an inflatable kayak, and an inflatable stand up paddle board (SUP).  We are absolutely in love with the nomadic lifestyle and have no intentions of stopping anytime soon.
+Our rig is a 2003 Fleetwood Bounder class A motorhome. She's 33' long with two slides and honestly quite a bit more motorhome than we need. Were we to do it all over again, we'd go with 25' or less but everyone's needs are different! We recently upgraded our tow car to a manual 4x4 2010 Nissan Xterra and for recreation gear we have bikes, an inflatable kayak, and an inflatable stand up paddle board (SUP).  We are absolutely in love with the nomadic lifestyle and have no intentions of stopping anytime soon.
 
 ![RV parked by a bridge and ocean ](/images/ORFendy.png)
 
