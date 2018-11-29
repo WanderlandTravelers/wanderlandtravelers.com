@@ -11,7 +11,7 @@ category: Colorado
 author: maggie
 ---
 
-It's always so fun to figure out what path and direction we're going to take when we have a far-off destination in mind. We pull out our road atlas (yes, a paper map!) and start looking at all the options, and it's very exciting to envision ourselves on different adventures along these different routes. When it came time to leave Iowa, we knew we would be heading towards the Southwest for the winter but we didn't know what we wanted to see on the way there. It didn't take long to realize that we might be able to catch some of the golden Aspens in Colorado helped us make our decision.
+It's always so fun to figure out what path and direction we're going to take when we have a far-off destination in mind. We pull out our road atlas (yes, a paper map!) and start looking at all the options, and it's very exciting to envision ourselves on different adventures along these different routes. When it came time to leave Iowa, we knew we would be heading towards the Southwest for the winter but we didn't know what we wanted to see on the way there. Realizing that we might be able to catch some of the golden Aspens in Colorado helped us make our decision.
 
 ### THE QUICK DETAILS
 
