@@ -38,23 +38,62 @@
         {% endfor %}
     </aside>
     <aside id="archives-2" class="widget widget_archive">
-        <h4 class="widget-title">Archives</h4>
-        <ul>
-          {% assign counter = 0 %}
+      <h4 class="widget-title">Archives</h4>
+      <div
+        class="panel-group"
+        id="archive-accordian"
+        role="tablist"
+        aria-multiselectable="true">
+        <div class="panel panel-default">
+          {% assign nowyear = "now" | date: "%Y" %}
+          {% assign monthcounter = 0 %}
+          {% assign months = "" %}
           {% for post in site.posts %}
             {% assign thismonthyear = post.date | date: "%B %Y" %}
             {% assign prevmonthyear = post.previous.date | date: "%B %Y" %}
-            {% assign counter = counter | plus: 1 %}
+            {% assign thisyear = post.date | date: "%Y" %}
+            {% assign previousyear = post.previous.date | date: "%Y" %}
+            {% assign monthcounter = monthcounter | plus: 1 %}
+            {% assign yearcounter = yearcounter | plus: 1 %}
             {% if thismonthyear != prevmonthyear %}
-              <li>
-                <a href="{{ site.baseurl }}/{{ post.date | date:"%Y" }}/{{ post.date | date:"%m" }}/">
-                  {{ thismonthyear }} ({{ counter }})
-                </a>
-              </li>
-              {% assign counter = 0 %}
+              {% capture month %}
+                <li>
+                  <a href="{{ site.baseurl }}/{{ post.date | date:"%Y" }}/{{ post.date | date:"%m" }}/">
+                    {{ thismonthyear }} ({{ monthcounter }})
+                  </a>
+                </li>
+              {% endcapture %}
+              {% assign months = months | append:month %}
+              {% assign monthcounter = 0 %}
+            {% endif %}
+            {% if previousyear == null or thisyear != previousyear %}
+              <div class="panel-heading" role="tab" id="archive-header-{{ thisyear }}">
+                <h4 class="panel-title">
+                  <a
+                    role="button"
+                    data-toggle="collapse"
+                    data-parent="#archive-accordian"
+                    href="#archive-collapse-{{ thisyear }}"
+                    {% if thisyear == nowyear %}aria-expanded="true"{% endif %}
+                    aria-controls="archive-collapse-{{ thisyear }}">
+                    {{ thisyear }} ({{ yearcounter }})
+                  </a>
+                </h4>
+              </div>
+              <div
+                id="archive-collapse-{{ thisyear }}"
+                class="panel-collapse collapse{% if thisyear == nowyear %} in{% endif %}"
+                role="tabpanel"
+                aria-labelledby="archive-header-{{ thisyear }}">
+                <div class="panel-body">
+                  <ul>{{ months }}</ul>
+                </div><!-- .panel-body -->
+              </div><!-- #archive-collapse-{{ previousyear }} -->
+              {% assign yearcounter = 0 %}
             {% endif %}
           {% endfor %}
-        </ul>
+        </div> <!-- .panel -->
+      </div> <!-- #archive-accordian -->
     </aside>
     <aside id="categories-2" class="widget widget_categories">
       <h4 class="widget-title">Categories</h4>
