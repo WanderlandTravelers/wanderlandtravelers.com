@@ -32,6 +32,8 @@ With all the rain, the desert smelled amazing and it increased the flows of the 
 
 {% include image.html img="BRwaterfall.jpg" title="Man next to waterfall" caption="We loved all the drops and segments of the waterfall" %}
 
+{% include image.html img="BRMWater.jpg" title="Woman next to waterfall" caption="We climbed quite a bit further than this but it definitely required some agility" %}
+
 We had a couple really fun wildlife interactions during our stay. One day while I was scrambling on the rocks near our campsite, I heard the sound of an animal chittering at me. When I looked in that direction, I saw the most unusual and amazing animal I'd ever seen! It looked like a baby bear but with a super long ringed tail. I caught a little footage of it, you'll have to check it out in our video below, but it was such an incredible experience. I felt like I'd seen a brand new species. I later learned they were actually Coatimundis. They are more common in Central and South America but there are some populations in Arizona. They're very elusive and even though I took Brad back a couple times to look for them, they never revealed themselves again.
 
 There are many free range cattle roaming this area, and unfortunately lots of flies because of them, but we still enjoyed seeing them. There were several evenings that we heard coyotes howling off in the distance, and we saw roadrunners and cottontails rabbits. Our campsite neighbor also told us about a couple packs of wild horses in the area and just when we'd given up on seeing them, they were hanging out right next to the road the day we left!
