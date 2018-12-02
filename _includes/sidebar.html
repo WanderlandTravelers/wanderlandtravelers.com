@@ -59,10 +59,19 @@
     <aside id="categories-2" class="widget widget_categories">
       <h4 class="widget-title">Categories</h4>
       <ul>
-        {% for category in site.categories %}
+        {% assign categories = "" %}
+        {% for category_item in site.categories %}
+          {% assign category = category_item | first %}
+          {% assign categories = categories | append:category %}
+          {% unless forloop.last %}
+            {% assign categories = categories | append:"," %}
+          {% endunless %}
+        {% endfor %}
+        {% assign categories = categories | split:"," | sort %}
+        {% for category in categories %}
           <li class="cat-item cat-item-1">
-            <a href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">
-              {{ category | first }}
+            <a href="{{ site.baseurl }}/category/{{ category | downcase | slugify }}/">
+              {{ category }}
             </a>
           </li>
         {% endfor %}
