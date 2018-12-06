@@ -1,5 +1,5 @@
 ---
-title: Boondocking at Craggy Wash Lake Havasu, Arizona
+title: 'Boondocking at Craggy Wash: Lake Havasu'
 layout: post
 author: maggie
 category:
@@ -10,6 +10,7 @@ tags:
 - BLM boondocking
 date: '2018-11-28 10:40:22'
 img: HavasuFendy.jpg
+description: Free RV camping at Craggy Wash BLM near Lake Havasu City, Arizona
 ---
 
 Our Thanksgiving plans had us on a northward trajectory and we weren’t quite sure where to head after the Phoenix area. Watson Lake in Prescott is on our list as a great kayaking destination so that was in the running but ultimately we decided we should go there in warmer weather. We had heard great things about Lake Havasu and the reviews for camping at Craggy Wash BLM were pretty positive so we decided to check it out for ourselves.
