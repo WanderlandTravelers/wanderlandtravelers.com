@@ -50,7 +50,7 @@ We saw a giant guided tour boat heading up and down the river, so that would be 
 
 {% include image.html img="BsupAZ.jpg" title="Man on paddle board next to tall cliff" caption="The cliffs were so pretty in the setting sun" %}
 
-{% include image.html img="SupMkayak.jpg" title="Woman kayaking" caption="I love this little kayak" %}
+{% include image.html img="SupMKayak.jpg" title="Woman kayaking" caption="I love this little kayak" %}
 
 We only ended up staying at our boondocking site for three nights but we got out on some hiking trails and saw some gorgeous sunsets. Unfortunately the boondocking spot itself can be a little trashy – literally, people leave trash around -- and it can get crowded, but the views are just spectacular so we still consider it a great free boondocking spot.
 
