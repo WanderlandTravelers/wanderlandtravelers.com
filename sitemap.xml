@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://wanderlandtravelers.com/authors/maggie/</loc>
-<lastmod>2018-12-07T05:41:32+00:00</lastmod>
+<lastmod>2018-12-07T17:25:24+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/10/18/welcome-to-our-blog/</loc>
@@ -39,6 +39,10 @@
 <url>
 <loc>https://wanderlandtravelers.com/arizona/free%20camping/2018/11/28/boondocking-at-craggy-wash-lake-havasu/</loc>
 <lastmod>2018-11-28T10:40:22+00:00</lastmod>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/nevada/favorite%20campsites/2018/12/05/boondocking-at-stewarts-point-lake-mead-nevada/</loc>
+<lastmod>2018-12-05T10:40:22+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/about/</loc>
@@ -80,6 +84,12 @@
 <loc>https://wanderlandtravelers.com/tag/blm-boondocking/</loc>
 </url>
 <url>
+<loc>https://wanderlandtravelers.com/tag/lake-mead/</loc>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/tag/nra-camping/</loc>
+</url>
+<url>
 <loc>https://wanderlandtravelers.com/category/colorado/</loc>
 </url>
 <url>
@@ -101,7 +111,13 @@
 <loc>https://wanderlandtravelers.com/category/rv-renovations/</loc>
 </url>
 <url>
+<loc>https://wanderlandtravelers.com/category/nevada/</loc>
+</url>
+<url>
 <loc>https://wanderlandtravelers.com/2018/</loc>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/2018/12/</loc>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/11/</loc>
