@@ -37,6 +37,14 @@ body, button, input, select, textarea {
 
 .entry-content, .entry-summary {
     color: $black;
+
+    li img {
+      position: relative;
+      float: left;
+      margin: 15px 0;
+      left: -40px;
+      max-width: calc(100% + 40px);
+    }
 }
 
 figure {
