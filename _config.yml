@@ -1,5 +1,5 @@
 title: Wanderland Travelers
-logo: <img src="/images/logo.png" />
+logo: /images/logo-round.png
 email: hello@wanderlandtravelers.com
 description: Always keep moving, but not too fast
 baseurl: ''
@@ -63,6 +63,16 @@ analytics: 'UA-78209422-2'
 paginate: 12
 paginate_path: '/page:num/'
 markdown: kramdown
+social:
+  links:
+    - https://youtube.com/wanderlandtravelers
+    - https://twitter.com/wanderlandistas
+    - https://www.facebook.com/wanderlandtravelers
+    - https://github.com/WanderlandTravelers
+    - https://instagram.com/wanderlandtravelers
+twitter:
+  username: wanderlandistas
+  card: summary
 jekyll-archives:
   enabled:
     - categories
@@ -91,6 +101,7 @@ plugins:
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-youtube
 include:

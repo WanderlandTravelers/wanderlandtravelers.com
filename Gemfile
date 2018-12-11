@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-default-layout', "~> 0.1"
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate", "~> 1.1"
+  gem "jekyll-seo-tag", "~> 2.5.0"
   gem "jekyll-sitemap", "~> 1.2"
   gem "jekyll-youtube", "~> 1.0"
 end
