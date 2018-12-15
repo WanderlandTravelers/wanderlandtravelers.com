@@ -49,6 +49,20 @@
     	height = h;
     	$("#cc_spacer").css("height", height + "px");
 
+    $.instagramFeed({
+      'username': 'wanderlandtravelers',
+      'container': "#instagram-feed",
+      'display_profile': false,
+      'display_biography': false,
+      'display_gallery': true,
+      'get_raw_json': false,
+      'callback': null,
+      'styling': true,
+      'items': 10,
+      'items_per_row': 2,
+      'margin': 1
+    });
+
     // Search
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.

@@ -47,6 +47,42 @@ body, button, input, select, textarea {
     }
 }
 
+.widget_instagram {
+  &::before {
+    content: "Instagram";
+    font-size: 18px;
+    position: relative;
+    font-weight: 400;
+    margin-top: -24px;
+    margin-left: -24px;
+    margin-right: -24px;
+    margin-bottom: 2em;
+    padding: 1.5em 1.5em 0;
+    text-transform: uppercase;
+  }
+  .instagram_gallery {
+    &::before {
+      background-color: #009688;
+      content: "";
+      position: relative;
+      width: 50px;
+      display: block;
+      height: 4px;
+      top: -18px;
+    }
+
+    padding-top: 25px;
+  }
+  img {
+    transition: transform .2s; /* Animation */
+
+    &:hover {
+      transform: scale(1.35);
+      border: solid 2px white;
+    }
+  }
+}
+
 figure {
   img.has-caption {
     margin-bottom: 0px;

@@ -99,6 +99,7 @@ gulp.task('js', function () {
         './node_modules/lunr/lunr.js',
         './node_modules/bootstrap/dist/js/bootstrap.js',
         './node_modules/html5shiv/dist/html5shiv.js',
+        './node_modules/jquery.instagramfeed/jquery.instagramFeed.js',
     ].concat(['src/js/*']))
         .pipe(sourcemaps.init())
         .pipe(concat('main.js'))
