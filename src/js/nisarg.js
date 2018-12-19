@@ -58,7 +58,7 @@
       'get_raw_json': false,
       'callback': null,
       'styling': true,
-      'items': 10,
+      'items': 8,
       'items_per_row': 2,
       'margin': 1
     });
