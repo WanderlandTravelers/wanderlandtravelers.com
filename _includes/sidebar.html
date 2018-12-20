@@ -37,24 +37,7 @@
           </li>
         {% endfor %}
     </aside>
-    <aside id="archives-2" class="widget widget_archive">
-        <h4 class="widget-title">Archives</h4>
-        <ul>
-          {% assign counter = 0 %}
-          {% for post in site.posts %}
-            {% assign thismonthyear = post.date | date: "%B %Y" %}
-            {% assign prevmonthyear = post.previous.date | date: "%B %Y" %}
-            {% assign counter = counter | plus: 1 %}
-            {% if thismonthyear != prevmonthyear %}
-              <li>
-                <a href="{{ site.baseurl }}/{{ post.date | date:"%Y" }}/{{ post.date | date:"%m" }}/">
-                  {{ thismonthyear }} ({{ counter }})
-                </a>
-              </li>
-              {% assign counter = 0 %}
-            {% endif %}
-          {% endfor %}
-        </ul>
+    <aside id="instagram-feed" class="widget widget_instagram">
     </aside>
     <aside id="categories-2" class="widget widget_categories">
       <h4 class="widget-title">Categories</h4>
@@ -76,5 +59,24 @@
           </li>
         {% endfor %}
       </ul>
+    </aside>
+    <aside id="archives-2" class="widget widget_archive">
+        <h4 class="widget-title">Archives</h4>
+        <ul>
+          {% assign counter = 0 %}
+          {% for post in site.posts %}
+            {% assign thismonthyear = post.date | date: "%B %Y" %}
+            {% assign prevmonthyear = post.previous.date | date: "%B %Y" %}
+            {% assign counter = counter | plus: 1 %}
+            {% if thismonthyear != prevmonthyear %}
+              <li>
+                <a href="{{ site.baseurl }}/{{ post.date | date:"%Y" }}/{{ post.date | date:"%m" }}/">
+                  {{ thismonthyear }} ({{ counter }})
+                </a>
+              </li>
+              {% assign counter = 0 %}
+            {% endif %}
+          {% endfor %}
+        </ul>
     </aside>
 </div>

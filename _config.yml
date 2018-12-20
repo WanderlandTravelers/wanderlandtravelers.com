@@ -60,7 +60,7 @@ facebook_url: null
 discus_identifier: http-wanderlandtravelers-com
 mailchimp: null
 analytics: 'UA-78209422-2'
-paginate: 12
+paginate: 4
 paginate_path: '/page:num/'
 markdown: kramdown
 social:
