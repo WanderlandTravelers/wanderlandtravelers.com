@@ -5,8 +5,6 @@ author: maggie
 category:
 - Utah
 - Our Nissan Xterra
-description: We visit family in St. George and enjoy pickleball, mountain biking,
-  and getting a new tow car
 date: '2018-12-19 14:03:25'
 img: StGeo1.jpg
 ---
