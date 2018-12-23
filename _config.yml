@@ -4,6 +4,7 @@ email: hello@wanderlandtravelers.com
 description: Always keep moving, but not too fast
 baseurl: ''
 url: 'https://wanderlandtravelers.com'
+comment_host: https://wanderlandtravelers.pythonanywhere.com
 carousel_images:
   - file: 1.Monuments.jpg
     alt: Panoramic view of monument valley
@@ -120,3 +121,4 @@ exclude:
   - package-lock.json
   - node_modules
   - vendor
+  - venv
