@@ -141,53 +141,9 @@ figure + figure {
 #comments {
   background: #fff;
   box-shadow: 0 0 1px rgba(0,0,0,.15);
-  padding: 24px;
+  padding: 15px;
+  text-align: center;
   margin-bottom: 2em;
-
-  .avatar {
-    margin-right: 5px;
-    img {
-      width: 100%;
-    }
-  }
-
-  input[name="notification"] {
-    margin-right: 5px !important;
-  }
-}
-
-@media (max-width: 900px) {
-  #comments input[name="notification"] {
-    width: auto !important;
-  }
-}
-
-@media (max-width: 640px) {
-  #comments {
-    .isso-postbox > .form-wrapper > .auth-section .input-wrapper {
-      max-width: 100%;
-      width: 100%;
-      margin-bottom: 5px;
-    }
-    .avatar {
-      width: 10%;
-    }
-  }
-}
-
-@media (max-width: 540px) {
-  #comments {
-    .isso-postbox > .form-wrapper > .auth-section .post-action {
-      float: left;
-      margin: 0 5px 3px 0;
-    }
-    .notification-section label {
-      width: 100%;
-    }
-    .avatar {
-      width: 12%;
-    }
-  }
 }
 
 @media (max-width: 450px) {
@@ -199,14 +155,6 @@ figure + figure {
     div.author-snippet-content {
       padding-left: 0;
       width: 100%;
-    }
-  }
-  #comments {
-    .isso-postbox {
-      margin-bottom: 0.5em;
-    }
-    .avatar {
-      width: 14%;
     }
   }
 }
