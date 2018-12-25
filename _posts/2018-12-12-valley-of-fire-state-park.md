@@ -49,7 +49,7 @@ But honestly, all of the sandstone you're hiking on is incredibly striped and to
 
 This was our last hike of the day since we still needed to take time to empty our RV tanks at the campground before dark. The park actually closes at sunset and you are considered trespassing if you're there much after sundown!
 
-The White Domes Loop is a 1.25 mile trail and it has a bit more elevation change than the others we've mentioned. We enjoyed the decent through the towering sandstone fins.
+The White Domes Loop is a 1.25 mile trail and it has a bit more elevation change than the others we've mentioned. We enjoyed the descent through the towering sandstone fins.
 
 {% include image.html img="VF7.jpg" title="Decending hike among tall red and white sandstone" caption="Looking back at where we came from" %}
 
