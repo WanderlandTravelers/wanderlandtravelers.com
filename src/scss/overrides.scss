@@ -47,6 +47,31 @@ body, button, input, select, textarea {
     }
 }
 
+.widget-social {
+  a {
+    margin-right: 5px;
+    > i.fa {
+      color: #424242;
+      font-size: 32px;
+    }
+
+    svg {
+      width: 28px;
+      height: 28px;
+      path {
+        fill: #424242;
+      }
+    }
+
+    > i.fa, svg {
+      transition: transform .2s; /* Animation */
+      &:hover {
+        transform: scale(1.35);
+      }
+    }
+  }
+}
+
 .widget_instagram {
   &::before {
     content: "Instagram";
