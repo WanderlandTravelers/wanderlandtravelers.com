@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://wanderlandtravelers.com/authors/maggie/</loc>
-<lastmod>2019-01-24T22:01:15+00:00</lastmod>
+<lastmod>2019-01-24T22:16:49+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/10/18/welcome-to-our-blog/</loc>
@@ -63,6 +63,10 @@
 <url>
 <loc>https://wanderlandtravelers.com/2019/01/09/boondocking-at-desert-national-wildlife-refuge-nevada/</loc>
 <lastmod>2019-01-09T16:22:02+00:00</lastmod>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/2019/01/16/boondocking-at-heart-of-mojave-east-needles-ca/</loc>
+<lastmod>2019-01-16T11:35:13+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/about/</loc>
@@ -138,6 +142,9 @@
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/category/our-nissan-xterra/</loc>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/category/california/</loc>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/</loc>
