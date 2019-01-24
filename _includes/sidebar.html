@@ -1,4 +1,21 @@
 <div id="secondary" class="col-md-3 sidebar widget-area" role="complementary">
+    <aside id="social" class="widget widget-social">
+        {% for social_link in site.social.links %}
+          {% if social_link contains "youtube.com" %}
+            <a href="{{ social_link }}"><i class="fa fa-youtube"></i></a>
+          {% elsif social_link contains "facebook.com" %}
+            <a href="{{ social_link }}"><i class="fa fa-facebook"></i></a>
+          {% elsif social_link contains "instagram.com" %}
+            <a href="{{ social_link }}"><i class="fa fa-instagram"></i></a>
+          {% elsif social_link contains "twitter.com" %}
+            <a href="{{ social_link }}"><i class="fa fa-twitter"></i></a>
+          {% elsif social_link contains "pixels.com" %}
+            <a href="{{ social_link }}">{% include fineartamerica.svg %}</a>
+          {% elsif social_link contains "ko-fi.com" %}
+            <a href="{{ social_link }}">{% include ko-fi.svg %}</a>
+          {% endif %}
+        {% endfor %}
+    </aside>
     <aside id="search-2" class="widget widget_search">
         <form role="search" method="get" class="search-form" action="{{ site.baseurl }}/search">
             <label>

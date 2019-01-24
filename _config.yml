@@ -67,10 +67,12 @@ markdown: kramdown
 social:
   links:
     - https://youtube.com/wanderlandtravelers
-    - https://twitter.com/wanderlandistas
     - https://www.facebook.com/wanderlandtravelers
     - https://github.com/WanderlandTravelers
     - https://instagram.com/wanderlandtravelers
+    - https://twitter.com/wanderlandistas
+    - http://www.margaret-pitcher.pixels.com/
+    - https://ko-fi.com/wanderlandtravelers
 twitter:
   username: wanderlandistas
   card: summary
