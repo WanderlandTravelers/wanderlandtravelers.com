@@ -2,7 +2,9 @@
 title: 'Boondocking at Desert National Wildlife Refuge: Nevada'
 layout: post
 author: maggie
-category: Nevada
+category:
+- Nevada
+- Free Camping
 date: '2019-01-09 16:22:02'
 img: CC4.jpg
 ---
