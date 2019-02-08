@@ -3,6 +3,8 @@ title: We are the <br> Wanderland Travelers
 layout: page
 permalink: "/about/"
 img: UsFloridaFamily.jpg
+sidebar_img: UsFloridaFamily-square.jpg
+excerpt: Hi! We're Brad and Maggie and we're just a couple of fun-loving adventure seekers who decided to start carving our own path. With Brad's ability to work from the road as a software engineer, we realized that the only thing holding us back was ourselves!
 ---
 
 Hi! We’re Brad and Maggie and we’re just a couple of fun-loving adventure seekers who decided to start carving our own path. With Brad’s ability to work from the road as a software engineer, we realized that the only thing holding us back was ourselves! In the spring of 2016 we put our house on the market, sold or donated basically all our stuff, and a month later we were living onboard our motorhome, Starship Fenderprise (aka Fendy). Our life wouldn’t be complete without our amazing sidekicks Paco and Pepper – chihuahua/terrier rescues that are superb travel companions and snugglers. We'll get them their own 'About' page soon!

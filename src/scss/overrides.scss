@@ -47,6 +47,28 @@ body, button, input, select, textarea {
     }
 }
 
+.widget-about {
+  > a.img-wrap {
+    border-radius: 50%;
+    display: block;
+    overflow: hidden;
+
+    img {
+      margin-bottom: 0;
+    }
+  }
+
+  > p {
+    margin: 10px 0;
+  }
+
+  > a.btn {
+    margin: 0px auto;
+    display: block;
+    width: 50%;
+  }
+}
+
 .widget-social {
   a {
     margin-right: 5px;

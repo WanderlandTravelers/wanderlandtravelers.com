@@ -1,4 +1,21 @@
 <div id="secondary" class="col-md-3 sidebar widget-area" role="complementary">
+    {% if page.permalink != '/about/' %}
+        <aside id="about" class="widget widget-about">
+            {% for sidebar_page in site.pages %}
+                {% if sidebar_page.permalink == '/about/' %}
+                    <a class="img-wrap" href="{{ sidebar_page.permalink }}">
+                        <img
+                            src="{{ '/images/' | prepend: site.baseurl | append: sidebar_page.sidebar_img }}"
+                            alt="{{ sidebar_page.title }}" />
+                    </a>
+                    <p>{{ sidebar_page.excerpt }}</p>
+                    <a class="btn btn-default" href="{{ sidebar_page.permalink }}">
+                        Read More<span class="screen-reader-text">Read More</span>
+                    </a>
+                {% endif %}
+            {% endfor %}
+        </aside>
+    {% endif %}
     <aside id="social" class="widget widget-social">
         {% for social_link in site.social.links %}
           {% if social_link contains "youtube.com" %}
