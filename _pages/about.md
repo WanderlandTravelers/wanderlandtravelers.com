@@ -6,7 +6,7 @@ img: UsFloridaFamily.jpg
 sidebar_img: UsFloridaFamily-square.jpg
 excerpt: Hi! We're Brad and Maggie and we're just a couple of fun-loving adventure
   seekers who decided to start carving our own path. We moved into an RV and have
-  been traveling fulltime since May 2016 with no plans of stopping anytime soon!
+  been exploring incredible places across the US since 2016!
 ---
 
 Hi! We’re Brad and Maggie and we’re just a couple of fun-loving adventure seekers who decided to start carving our own path. We moved into an RV and have been traveling fulltime since May 2016 with no plans of stopping anytime soon! With Brad’s ability to work from the road as a software engineer, we realized that the only thing holding us back was ourselves, so we we put our house on the market, sold or donated basically all our stuff, and a month later we were living aboard our motorhome, the Starship Fenderprise (aka Fendy). Our life wouldn’t be complete without our amazing sidekicks Paco and Pepper – chihuahua/terrier rescues that are superb travel companions and snugglers.
