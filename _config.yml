@@ -1,34 +1,27 @@
 title: Wanderland Travelers
 logo: /images/logo-round.png
 email: hello@wanderlandtravelers.com
-description: Always keep moving, but not too fast
+description: 'Always keep moving, but not too fast'
 baseurl: ''
 url: 'https://wanderlandtravelers.com'
 comment_host: wanderlandtravelers.pythonanywhere.com
 carousel_images:
   - file: 1.Monuments.jpg
     alt: Panoramic view of monument valley
+  - file: 6.Redwoods.jpg
+    alt: Ferns and abundant green in a forest
   - file: 2.FendyAZ.jpg
     alt: Fendy in Arizona
+  - file: 4.Monterey.jpg
+    alt: Beach and lights at sunset
   - file: 3.Cacti.jpg
     alt: Epic cacti
-  - file: 4.FendyPastels.jpg
-    alt: Fendy with beautiful pastels in the sky above
-  - file: 5.SealRock.jpg
-    alt: Enjoying seal rock
 defaults:
   - scope:
-      path: ""
-      type: "posts"
+      path: ''
+      type: pages
     values:
-      layout: "post"
-      author: "maggie"
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+      layout: page
 collections:
   authors:
     output: true
@@ -40,11 +33,11 @@ menu:
     url: /
   - id: say-thanks
     name: Say Thanks
-    url: https://ko-fi.com/wanderlandtravelers
+    url: 'https://ko-fi.com/wanderlandtravelers'
   - id: about-us
     name: About Us
     url: /about/
-permalink: /:year/:month/:day/:title/
+permalink: '/:year/:month/:day/:title/'
 banner-title: Wanderland Travelers
 banner-desc: null
 author-pic: face.jpg
@@ -60,19 +53,19 @@ dribbble_url: null
 facebook_url: null
 discus_identifier: http-wanderlandtravelers-com
 mailchimp: null
-analytics: 'UA-78209422-2'
+analytics: UA-78209422-2
 paginate: 4
 paginate_path: '/page:num/'
 markdown: kramdown
 social:
   links:
-    - https://youtube.com/wanderlandtravelers
-    - https://www.facebook.com/wanderlandtravelers
-    - https://github.com/WanderlandTravelers
-    - https://instagram.com/wanderlandtravelers
-    - https://twitter.com/wanderlandistas
-    - http://www.margaret-pitcher.pixels.com/
-    - https://ko-fi.com/wanderlandtravelers
+    - 'https://youtube.com/wanderlandtravelers'
+    - 'https://www.facebook.com/wanderlandtravelers'
+    - 'https://github.com/WanderlandTravelers'
+    - 'https://instagram.com/wanderlandtravelers'
+    - 'https://twitter.com/wanderlandistas'
+    - 'http://www.margaret-pitcher.pixels.com/'
+    - 'https://ko-fi.com/wanderlandtravelers'
 twitter:
   username: wanderlandistas
   card: summary
