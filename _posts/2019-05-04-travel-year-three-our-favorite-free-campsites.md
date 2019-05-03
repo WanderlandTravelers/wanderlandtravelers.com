@@ -26,57 +26,66 @@ Without further ado and in no particular order:
 
 ### CARRIZO BADLANDS OVERLOOK
 Ocotillo, California
+GPS: 32.828764, -116.168537
+
 
 {% include image.html img="Carrizo1.jpg" title="sunset in the desert with an RV" caption="It's definitely best to visit outside the late spring and summer season" %}
 
-This scenic overlook is located within the Anza Borrego Desert State Park. There are about 3 sites of varying size here and all with incredible views of the badlands below. There is hiking, off-roading, and slot canyons in the area and visiting during the late winter/early spring means decent weather and the chance for blooming Ocotillo and other wildflowers. 
+This scenic overlook is located within the Anza Borrego Desert State Park. There are about 3 sites of varying size here and all with incredible views of the badlands below. There is hiking, off-roading, and slot canyons in the area and visiting during the late winter/early spring means decent weather and the chance for blooming Ocotillo and other wildflowers. We had no issues working on AT&T here.
 
 ### THE ALABAMA HILLS
 Lone Pine, California
+GPS: 36.599071, -118.114534
 
 {% include image.html img="ABHills1.jpg" title="rv with snowy mountains at night" caption="It's easy to see why this area is so amazing" %}
 
-The Alabama Hills are an unexpected cluster of large round boulders seated at the base of the Sierra Nevada mountain range in the charming little town of Lone Pine.  Over 300 movies have been filmed in the Hills, mostly westerns but several modern films as well. This is BLM land and free camping is allowed for 14 days max. Cell service can be hard to come by but the views are impossible to beat.
+The Alabama Hills are an unexpected cluster of large round boulders seated at the base of the Sierra Nevada mountain range in the charming little town of Lone Pine.  Over 300 movies have been filmed in the Hills, mostly westerns but several modern films as well. This is BLM land and free camping is allowed for 14 days max. Cell service can be hard to come by but the views are impossible to beat. We had luck with AT&T at the coordinates listed above, there is no Verizon service.
 
 ### SILURIAN DRY LAKE BED
 Baker, California
+GPS: 35.52663,-116.17854
 
 {% include image.html img="Dry1.jpg" title="rv parked on cracked dry lake bed" caption="This was a unique spot to stay with such cool cracks in the dry earth" %}
 
-I don't know if the wind is always crazy here but we saw regular gusts easily up to 50mph. We needed to keep our slides in and park in a way that protected our door, but otherwise we thought there was something so fun about this spot. The dogs were able to run with wild abandon on the lake bed and we enjoyed bicycling on it. It's such a huge area that you can give plenty of space to your neighbors. Definitely a fun stop on our way to Death Valley National Park.
+I don't know if the wind is always crazy here but we saw regular gusts easily up to 50mph. We needed to keep our slides in and park in a way that protected our door, but otherwise we thought there was something so fun about this spot. The dogs were able to run with wild abandon on the lake bed and we enjoyed bicycling on it. It's such a huge area that you can give plenty of space to your neighbors. Definitely a fun stop on our way to Death Valley National Park. AT&T was workable here.
 
 ### INDIAN BREAD ROCKS
 Bowie, Arizona
+GPS: 32.238665, -109.499795
 
 {% include image.html img="BRFendy.jpg" title="rv parked next to jumbo rocks at sunset" caption="We visited in late October and were amazed at all the running water" %}
 
-I don't know if this place is always so incredible or if we just had so many amazing situations collide. We had two nights of wild lightning storms that made for fun videography, and all of that rain meant the local springs and waterfalls were rushing with water. We enjoyed hiking up and around the waterfalls, playing on the jumbo rocks, and not only did we see wild horses, we saw the elusive Coatimundis!
+I don't know if this place is always so incredible or if we just had so many amazing situations collide. We had two nights of wild lightning storms that made for fun videography, and all of that rain meant the local springs and waterfalls were rushing with water. We enjoyed hiking up and around the waterfalls, playing on the jumbo rocks, and not only did we see wild horses, we saw the elusive Coatimundis! We were fine working on our AT&T here.
 
 ### HIPPIE HOLE
 Cibola, Arizona
+GPS: 33.377080, -114.705650
 
 {% include image.html img="Hippie2.jpg" title="people on a rug next to a firepit" caption="If you're lucky you can snag a spot right on the water" %}
 
-This spot is right along the Colorado River and if the weather had been warmer it would have been great fun to float to or from our campsite. The real draw here though is the nearby Cibola Wildlife Refuge. I'm not sure if it's always so full with a huge variety of birds, but when we were here in late December, our jaws were on the ground with what we saw. The sky was almost blacked out by the number of birds -- all different sizes and varities!
+This spot is right along the Colorado River and if the weather had been warmer it would have been great fun to float to or from our campsite. The real draw here though is the nearby Cibola Wildlife Refuge. I'm not sure if it's always so full with a huge variety of birds, but when we were here in late December, our jaws were on the ground with what we saw. The sky was almost blacked out by the number of birds -- all different sizes and varities! No problems with AT&T here.
 
 ### SADDLE MOUNTAIN
 Tonopah, Arizona
+GPS: 33.464043, -113.036588
 
 {% include image.html img="Saddle1.jpg" title="sunset against hilly desert scene" caption="There are such beautiful views in this area!" %}
 
-There are a couple of entries to this area and we ended up at the not-so-accessible one. We followed the GPS link on Campendium and turned in where there was wooden kiosk-type stand and chose a site not too far in because the road quickly degraded. We saw many more RVs just a little further down the highway and heard that entering over there was a much better option. There's hiking, great views, and workable interent -- but the flies are always kinda terrible here, so be aware.
+There are a couple of entries to this area and we ended up at the not-so-accessible one. We followed the GPS above but couldn't go too far in because the road quickly degraded. We saw many more RVs just a little further down the highway and heard that entering over there was a much better option. There's hiking, great views, and workable interent on both AT&T and Verizon -- but the flies are always kinda terrible here, so be aware.
 
 ### CLEARWATER FOREBAY NUMBER 2
 Umpqua National Forest, Oregon
+GPS: 43.262104, -122.404493
 
 {% include image.html img="Ump1.jpg" title="people in a forest next to a firepit" caption="This is forest camping right next to a peaceful pond" %}
 
-While the road to get here is very steep and we only had cell service on Verizon, the sheer number of nearby waterfalls makes this an absolutely amazing homebase in the Umpqua National Forest.  It's also incredibly close to the ever popular Umpqua Hot Springs -- which we didn't end up visiting because the area was so busy and we prefer a more quiet hot springs experience. Our favorite waterfall, which ended up being right off the road, was Clearwater Falls. Simply gorgeous!
+While the road to get here is very steep and we only had cell service on Verizon, the sheer number of nearby waterfalls makes this an absolutely amazing homebase in the Umpqua National Forest.  It's also incredibly close to the ever popular Umpqua Hot Springs -- which we didn't end up visiting because the area was so busy and we prefer a more quiet hot springs experience. Our favorite waterfall, which ended up being right off the road, was Clearwater Falls. Simply gorgeous! AT&T didn't work here at all but Verizon was fine, if a little slow.
 
 ## FREE -- WITH YOUR NATIONAL PARKS PASS
 
 ### STEWART'S POINT
 Lake Mead, Nevada
+GPS: 36.377932, -114.397824
 
 {% include image.html img="LMLake2.jpg" title="rv parked next to bright blue lake" caption="The bright blue waters of Lake Mead are absolutely enchanting" %}
 
@@ -84,6 +93,7 @@ It's a bit slow-going on rocky gravel roads to get close to the cliff edge but w
 
 ### AUXILIARY DAM CAMPGROUND
 Lake Isabella, California
+GPS: 35.643029, -118.462129
 
 {% include image.html img="Isabella1.jpg" title="several RVers camped lakefront in the sand" caption="Beach camping is definitely one of our favorites" %}
 
