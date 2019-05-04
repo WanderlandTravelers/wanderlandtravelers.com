@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://wanderlandtravelers.com/authors/maggie/</loc>
-<lastmod>2019-05-03T23:46:13+00:00</lastmod>
+<lastmod>2019-05-04T22:32:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/10/18/welcome-to-our-blog/</loc>
@@ -113,6 +113,10 @@
 <lastmod>2019-03-28T16:16:25+00:00</lastmod>
 </url>
 <url>
+<loc>https://wanderlandtravelers.com/2019/05/04/travel-year-three-our-favorite-free-campsites/</loc>
+<lastmod>2019-05-04T16:16:25+00:00</lastmod>
+</url>
+<url>
 <loc>https://wanderlandtravelers.com/about/</loc>
 </url>
 <url>
@@ -197,6 +201,9 @@
 <loc>https://wanderlandtravelers.com/category/oregon/</loc>
 </url>
 <url>
+<loc>https://wanderlandtravelers.com/category/year-in-review/</loc>
+</url>
+<url>
 <loc>https://wanderlandtravelers.com/2018/</loc>
 </url>
 <url>
@@ -210,6 +217,9 @@
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2019/</loc>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/2019/05/</loc>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2019/03/</loc>
