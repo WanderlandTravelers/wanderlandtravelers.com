@@ -79,7 +79,7 @@ GPS: 43.262104, -122.404493
 
 {% include image.html img="Ump1.jpg" title="people in a forest next to a firepit" caption="This is forest camping right next to a peaceful pond" %}
 
-While the road to get here is very steep and we only had cell service on Verizon, the sheer number of nearby waterfalls makes this an absolutely amazing homebase in the Umpqua National Forest.  It's also incredibly close to the ever popular Umpqua Hot Springs -- which we didn't end up visiting because the area was so busy and we prefer a more quiet hot springs experience. Our favorite waterfall, which ended up being right off the road, was Clearwater Falls. Simply gorgeous! AT&T didn't work here at all but Verizon was fine, if a little slow.
+While the road to get here is very steep and we only had cell service on Verizon, the sheer number of nearby waterfalls makes this an absolutely amazing homebase in the Umpqua National Forest.  It's also incredibly close to the ever popular Umpqua Hot Springs -- which we didn't end up visiting because the area was so busy and we prefer a more quiet hot springs experience. Our favorite waterfall, which ended up being right off the road, was Clearwater Falls. Simply gorgeous!
 
 ## FREE -- WITH YOUR NATIONAL PARKS PASS
 
