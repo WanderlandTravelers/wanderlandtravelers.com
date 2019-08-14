@@ -3,10 +3,8 @@ title: Welcome to our blog!
 layout: post
 img: MBlogging.jpg
 date: '2018-10-18 10:30:00'
-tag:
-- Ramblings
-- Misc
-- OurStory
+category:
+- Extra Details
 author: maggie
 ---
 
