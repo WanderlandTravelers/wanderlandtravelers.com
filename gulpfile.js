@@ -80,6 +80,7 @@ gulp.task('sass', function () {
     cssStream = gulp.src([
         './node_modules/font-awesome/css/font-awesome.css',
         './node_modules/bootstrap/dist/css/bootstrap.css',
+        './node_modules/beerslider/dist/BeerSlider.unmin.css',
     ]);
 
     //merge the two streams and concatenate their contents into a single file
@@ -100,6 +101,7 @@ gulp.task('js', function () {
         './node_modules/bootstrap/dist/js/bootstrap.js',
         './node_modules/html5shiv/dist/html5shiv.js',
         './node_modules/jquery.instagramfeed/jquery.instagramFeed.js',
+        './node_modules/beerslider/dist/BeerSlider.unmin.js',
     ].concat(['src/js/*']))
         .pipe(sourcemaps.init())
         .pipe(concat('main.js'))

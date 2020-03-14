@@ -129,6 +129,17 @@
     }
 	}
 
+  // Comparison images
+  $.fn.BeerSlider = function (options) {
+    options = options || {};
+    return this.each(function() {
+      new BeerSlider(this, options);
+    });
+  };
+  $('.beer-slider').each(function (index, el) {
+    $(el).BeerSlider({start: $(el).data('beer-start')})
+  });
+
   // Window events
 	$(window).resize(function(){
 		setHeight($("#navigation_menu").height());
