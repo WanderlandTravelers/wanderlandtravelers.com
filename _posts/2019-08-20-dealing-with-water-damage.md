@@ -34,7 +34,7 @@ We purchased Minwax wood hardener and Woody Wood Epoxy for wood that was comprom
 
 I make it sound straightforward but of course there were lots of little snags, surprises, and difficulties with removing the siding, pulling out hundreds of stubborn rusty staples, and digging out rotten wood and deciding what was salvageable.
 
-While Brad focused on removing and replacing the rotten wood, I spent several weeks cleaning each and every aluminim panel. There was butyl tape and residue to be removed and cleaned (I cleaned with mineral spirits), and there was sometimes silicone caulk to remove which was more time consuming. Sometimes I scratched the paint trying to get all the gunk off, and there were rusty spots that also needed paint to prevent further corrosion -- so after cleaning the panels I painted the compromised spots. There were even a few panels where rust had eaten all the way through the aluminum so I used a patch to fill that in before sanding and painting.
+While Brad focused on removing and replacing the rotten wood, I spent several weeks cleaning each and every aluminum panel. There was butyl tape and residue to be removed and cleaned (I cleaned with mineral spirits), and there was sometimes silicone caulk to remove which was more time consuming. Sometimes I scratched the paint trying to get all the gunk off, and there were rusty spots that also needed paint to prevent further corrosion -- so after cleaning the panels I painted the compromised spots. There were even a few panels where rust had eaten all the way through the aluminum so I used a patch to fill that in before sanding and painting.
 
 {% include image.html img="Trailer6.jpg" title="trailer siding being cleaned" caption="This process took so much longer than I ever expected" %}
 
@@ -44,16 +44,20 @@ While we had the siding off Brad used his electrical skills to install new outle
 
 There were so many other side projects going on as well: fixing our front window cover, installing a TV mount, dealing with wiring issues, building the bed frame, installing laminate over our countertop, upgrading the kitchen faucet, closing up the underbelly with repair tape, cleaning the awning, and then my big project of prepping and painting all the interior walls and cabinets.
 
-{% include image.html img="Trailer9.jpg" title="painting trailer walls" caption="Nearing the finish line!" %}
+{% include image.html img="Trailer9.jpg" title="painting trailer walls" caption="So much painting!" %}
 
 Having access to the air tools in the shop made reinstalling the aluminum panels so much easier than it would have been. And after that, we installed butyl tape around all the windows, doors, bay covers, exterior lights, roof components, and trim pieces. And then of course applied lots and lots of caulk.
 
 Overall, it took us 8 weeks of non-stop work (well, Brad was working his 8-5, M-F job as well!) but we finally got it all put back together...and just in time to hit the road to make it to two weddings.
 
+{% include image.html img="Trailer12.jpg" title="laminate over the old counter" caption="We love the ease and look of this new laminate" %}
+
 It was incredibly satisfying to finally bring this project to a close and drive away in water tight, renewly remodeled and upgraded rig -- dang near a dream home for us.
 
-{% include image.html img="Trailer12.jpg" title="renovated trailer countertop" caption="We love how low maintainence this laminate top is compared to real butcherblock" %}
+Use the slider in the middle of the photos below to see the trailer transformation!
 
-{% include image.html img="Trailer11.jpg" title="renovated trailer" caption="It's so much brighter now!" %}
 
-{% include image.html img="Trailer10.jpg" title="renovated trailer" caption="We couldn't be happier with how our tiny home ended up!" %}
+{% include image.html before="TTrailer1.jpg" before_title="renovated trailer" after="Trailer10.jpg" after_title="renovated trailer" %}
+
+
+{% include image.html before="TTrailer3.jpg" before_title="renovated trailer" after="Trailer11.jpg" after_title="renovated trailer" %}
