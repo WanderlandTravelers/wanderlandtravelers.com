@@ -7,6 +7,7 @@
   "author": "Wanderland Travelers",
   "license": "MIT",
   "dependencies": {
+    "beerslider": "^1.0.3",
     "bootstrap": "^3.3.5",
     "browser-sync": "^2.18.8",
     "child_process": "^1.0.2",
@@ -27,7 +28,8 @@
     "jquery.instagramfeed": "git+https://github.com/WanderlandTravelers/jquery.instagramFeed.git",
     "liquidjs": "^6.1.0",
     "lunr": "^2.3.5",
-    "minimatch": "^3.0.4"
+    "minimatch": "^3.0.4",
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {
     "sass": "^1.14.3"
