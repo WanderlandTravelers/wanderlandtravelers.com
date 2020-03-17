@@ -1,15 +1,34 @@
-<figure>
-  {% if include.url %}
-    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-  {% endif %}
-  <img
-    class="{% if include.caption %}has-caption {% endif %}"
-    src="/images/{{ include.img }}"
-    alt="{{ include.title }}" />
-  {% if include.url %}
-    </a>
-  {% endif %}
-  {% if include.caption %}
-    <figcaption>{{ include.caption }}</figcaption>
-  {% endif %}
-</figure>
+{% if include.before %}
+  <div class="beer-slider" data-beer-label="after" data-beer-start="50">
+{% else %}
+  <figure>
+{% endif %}
+
+{% if include.url %}
+  <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+{% endif %}
+<img
+  class="{% if include.caption %}has-caption {% endif %}"
+  src="/images/{% if include.before %}{{ include.after }}{% else %}{{ include.img }}{% endif %}"
+  alt="{% if include.before %}{{ include.after_title }}{% else %}{{ include.title }}{% endif %}" />
+{% if include.url %}
+  </a>
+{% endif %}
+
+{% if include.before %}
+  <div class="beer-reveal" data-beer-label="before">
+    <img
+      src="/images/{{ include.before }}"
+      alt="{{ include.before_title }}" />
+  </div>
+{% endif %}
+
+{% if include.caption %}
+  <figcaption>{{ include.caption }}</figcaption>
+{% endif %}
+
+{% if include.before %}
+  </div>
+{% else %}
+  </figure>
+{% endif %}
