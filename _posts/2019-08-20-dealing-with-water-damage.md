@@ -4,25 +4,24 @@ layout: post
 author: maggie
 date: '2019-08-20 14:16:11'
 category:
-- Our Trailer
 - RV Renovations
 img: Trailer13.jpg
 ---
 
-We purchased our travel trailer in Eugene, Oregon from the same dealership that we had bought our motorhome from 3 years prior. The trailer is a 2003 and Oregon is obviously known as being a wet and rainy place, so when we went to see it for the first time I took a deep breath to see if it smelled musty at all, it did not. We were so excited to find the make and model we had our heart set on that we probably didn't give it the thorough pre-purchase inpsection that we will do from now on!
+Smells and odors can reveal a lot about the state of an RV, so the first time we checked our trailer I stepped inside and took a big whiff. There was a hint of a warm plastic that greeted my nostrils but that was all. No musty or mildew smells. No red flags. 
 
-After moving on board and getting a closer look at things, I thought that some areas of the wall and ceiling looked like they had a small amount of water damage so I peeled back a little wallpaper and sent a spore sample to a local lab to see if there was mold present in the wall. It turned out that yes, there were mold spores on the sample I sent (I pressed a piece of clear tape against the discolored wall) -- the man I spoke to let me know it wasn't toxic mold, but it was definitely something that should be addressed and just because one area wasn't toxic mold didn't mean other water damaged areas might not be. This helped solidify our plan to head to Utah where we could park the trailer in Brad's dad's shop, air it out in that low humidity, and if needed, be able to open up the walls in a protected environment.
+However, after moving on board I noticed there was a small tear in the wallpaper, inside the bunk/cabinet area over the bed. I pushed on it and sure enough it felt soft. Dang. I was concerned about the possibility of mold so I peeled back a little wallpaper and sent a spore sample to a local lab for testing. It turned out that yes, there were mold spores on the sample I sent. It wasn't toxic mold, but I was told it was definitely something that should be addressed and just because this one area didn't have toxic mold doesn't mean other water damaged areas would be safe. This helped solidify our plan to head to Utah (from Oregon) where we could park the trailer my father-in-law's shop, air it out in the low humidity, and if needed, be able to open up the walls in a protected environment.
 
 {% include image.html img="Trailer14.jpg" title="peeling back wallpaper in a trailer" caption="In the shop investgating some soft spots in the wall. We learned that wood that's holding more water was much cooler to the touch!" %}
 
 
-Amazingly, the shop had an attached apartment so we were able to move everything out of the trailer and have a space for ourselves and the dogs while we worked on the trailer.
+Amazingly, the shop had an attached apartment so we were able to move everything out of the trailer and have a space for ourselves and the dogs while we worked.
 
-Brad actually took a week off work so that we could dive into the project and with the goal of wrapping it up within a couple weeks. Oh how naive we were!
+Brad actually took a week off work so that we could dive into the project with the goal of wrapping it up within a couple weeks. Oh how naive we were!
 
 {% include image.html img="Trailer7.jpg" title="trailer is a shop being worked on" caption="We were so thankful to have access to this amazing workspace with every tool we could imagine" %}
 
-That first week was spent discovering and uncovering more and more areas with pretty severe water damage. Every corner of the roof was problematic and two opposing corners of the body were also pretty bad with interior and exterior damage. Underneath the rig, water had collected in the underbelly fabric, then the fiberglass insulation soaked it up and held moisture against the wood so there were a few section of really rotten wood (and mold growth) on the bottom as well.
+That first week was spent discovering and uncovering more and more areas with pretty severe water damage. Every corner of the roof was problematic and two opposing corners of the body were also pretty bad with interior and exterior damage. Under the rig, water had collected in the underbelly fabric, then the fiberglass insulation soaked it up and held moisture against the wood so there were a few section of really rotten wood (and mold growth) on the bottom as well.
 
 There was definitely some initial shock and despair when we learned just how bad the damage was -- it far more than we ever expected. Luckily we had access to an incredible shop, all the tools, and ultimately we felt like it was within our abilities to make the needed repairs.
 
