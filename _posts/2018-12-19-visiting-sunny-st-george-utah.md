@@ -4,7 +4,6 @@ layout: post
 author: maggie
 category:
 - Utah
-- Our Nissan Xterra
 date: '2018-12-19 14:03:25'
 img: StGeo1.jpg
 ---
