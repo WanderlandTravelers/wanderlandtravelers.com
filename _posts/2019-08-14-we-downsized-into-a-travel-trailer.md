@@ -4,14 +4,14 @@ layout: post
 author: maggie
 date: '2019-08-14 14:16:11'
 category:
-- Our Trailer
-- Extra Details
+- Isn't That Special
 img: Trailer1.jpg
 ---
 
-First off, let me apologize for the long absence here on our blog! We bought a 'new' travel trailer in early May and things have been a bit crazy ever since.
+It can be so difficult to know what exactly you're looking for in an RV if you've never gone RVing before! We've spent the last three years traveling in our 33' Class A motorhome and while it has treated us well, we've learned a lot about our travel style and the ideal rig for us.
 
-We went with a Northwood Nash 19B travel trailer (downsizing from a 33' Class A motorhome) and specifically chose it for several reasons:
+We were ready to downsize and we went with a Northwood Nash 19B travel trailer.
+We specifically chose it for several reasons:
 
 * Length: It's 21' long including the tongue so we will have no issue fitting into almost any campsite or campground
 * Storage: We've got lots of cabinet space, a good sized closet, kitchen storage, and a large bunk over the bed where most of our clothing is. We've also got the entire space under our bed as storage.
