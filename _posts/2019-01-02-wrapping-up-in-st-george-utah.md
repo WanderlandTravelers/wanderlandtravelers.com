@@ -5,7 +5,6 @@ author: maggie
 date: '2019-01-02 16:22:02'
 category:
 - Utah
-- Our Nissan Xterra
 img: Geo1.jpg
 ---
 
