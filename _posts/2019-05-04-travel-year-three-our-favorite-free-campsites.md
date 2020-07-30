@@ -20,6 +20,7 @@ I will say this way of life is not for everyone, but it definitely is for us!
 
 {% include image.html img="Morro1.jpg" title="people standing in front of the ocean" caption="The traveling life can have you by snowy peaks one week and at the coast the next" %}
 
+
 While we stay at a mix of free and paid campgrounds, handsdown we always prefer the free and we've enjoyed quite a few in 'year 3' of our travels. In reflecting on our past year, here's a list of some of our favorite FREE campsites that we stayed at. They've been chosen for their beauty, accessibility, and proximity to incredible outdoor recreation. We've made videos of our stays in all these wonderful places, so be sure to check out our [YouTube channel](http://www.youtube.com/wanderlandtravelers) for all the details.
 
 Without further ado and in no particular order:
