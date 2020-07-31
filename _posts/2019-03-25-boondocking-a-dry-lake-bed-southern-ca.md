@@ -22,6 +22,7 @@ There's just something so striking about the patterns that form in dry cracked e
 * We had no problem working and streaming video on AT&T
 * You can see more photos and reviews on [Campendium](https://www.campendium.com/silurian-dry-lake-bed)
 
+&nbsp;
 {% include image.html img="Dry3.jpg" title="Dog on dry lake bed with man" caption="Paco especially loves to run in the great wide open" %}
 
 This was a very brief stay for us, just a couple of nights on our way to Death Valley but from the photos we saw it looked like such an intriguing place, we had to go check it out. There was no one else out there on our first night and the next day we saw someone else had arrived but they respectfully put so much distance between us I'm not even sure what type of rig it was! This wide open area is simply perfect for dog owners. We love when we can let our pups run wild and free and there seems to be something about the wind that really energizes them. The large cracks in the ground sometimes caused the occasional falter but for the most part it was a perfect running ground.
