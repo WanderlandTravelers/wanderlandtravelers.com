@@ -39,8 +39,7 @@ Just for the record, our blog is an attempt to provide helpful information based
 
 ### CROSSING THE BORDER:
 
-
-**DOCUMENTS**
+<strong id="documents">DOCUMENTS</strong>
 
 At the time of this writing, there are three documents for US Citizens to present at the border when driving from the United States into Baja.
 
