@@ -29,7 +29,7 @@ There was definitely some initial shock and despair when we learned just how bad
 
 We ended up having to remove all the aluminum siding. We also removed the rubber roof and we got to work replacing the damaged wood. We bought [this]( https://amzn.to/2KfX2po) moisture meter off Amazon and found that to be incredibly helpful to identify areas with high moisture. Sometimes all that was needed was to open the area up and expose it to air so it could dry out. Pro tip -- we will never go RV shopping again without one!
 
-We purchased Minwax wood hardener and Woody Wood Epoxy for wood that was compromised still good overall. We dug out any soft parts, applied the wood hardener and then filled in the missing area with the epoxy -- which it claims to be as strong as real wood once it cures.
+We purchased Minwax wood hardener and Woody Wood Epoxy for wood that was compromised but still good overall. We dug out any soft parts, applied the wood hardener and then filled in the missing area with the epoxy -- which it claims to be as strong as real wood once it cures.
 
 I make it sound straightforward but of course there were lots of little snags, surprises, and difficulties with removing the siding, pulling out hundreds of stubborn rusty staples, and digging out rotten wood and deciding what was salvageable.
 
@@ -49,7 +49,7 @@ Having access to the air tools in the shop made reinstalling the aluminum panels
 
 Overall, it took us 8 weeks of non-stop work (well, Brad was working his 8-5, M-F job as well!) but we finally got it all put back together...and just in time to hit the road to make it to two weddings.
 
-{% include image.html img="Trailer12.jpg" title="laminate over the old counter" caption="We love the ease and look of this new laminate" %}
+{% include image.html img="Trailer12.jpg" title="laminate over the old counter" caption="We love the ease and look of this new laminate countertop" %}
 
 It was incredibly satisfying to finally bring this project to a close and drive away in water tight, renewly remodeled and upgraded rig -- dang near a dream home for us.
 
@@ -60,3 +60,5 @@ Use the slider in the middle of the photos below to see the trailer transformati
 
 
 {% include image.html before="TTrailer3.jpg" before_title="renovated trailer" after="Trailer11.jpg" after_title="renovated trailer" %}
+
+If you're dealing with water damage we're sorry to hear it! Feel free to drop us a line with any questions and we'll do our best to help answer them. We also shared a few [videos](https://youtu.be/9qN8X-BiRkg) about this on our YouTube channel.
