@@ -4,7 +4,7 @@ layout: post
 img: MBlogging.jpg
 date: '2018-10-18 10:30:00'
 author: maggie
-category: Isn't That Special
+category: Must Reads
 ---
 
 Hi there and welcome to our little blog. We figured it was about time that we added this facet into our digital presence, I mean, we've only been full-time RVing for two and a half years now! When we first started this traveling lifestyle, I was so engrossed in capturing it in photos and film -- it's what felt most intuitive to me and to be honest I've been a bit intimidated about the written part. But in the spirit of trying new things, especially things that push you outside your comfort zone, here we are.
