@@ -6,7 +6,6 @@ date: '2018-12-25 17:41:46'
 img: Climb1.jpg
 category:
 - Utah
-- Isn't That Special
 ---
 
 Our time in St. George was full of many firsts for me: learning to drive a manual, going mountain biking, and playing pickleball, but I'd have to say rock climbing was definitely the most epic 'first'. Brad's sister Julie and brother-in-law Riley are outdoor lovers, and avid mountain bikers and climbers. We'd been dropping hints that we'd love to go climbing with them sometime and during this visit to St. George we finally got our chance. While Brad had been climbing before it was over a decade ago so we were stoked to have such experienced people taking us!

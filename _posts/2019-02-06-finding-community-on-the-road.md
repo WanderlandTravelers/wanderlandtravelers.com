@@ -4,7 +4,7 @@ layout: post
 author: maggie
 date: '2019-02-06 09:20:49'
 img: AB1.jpg
-category: Isn't That Special
+category: Must Reads
 ---
 
 Community. It's something that nearly every person craves and you might think that moving into an RV and hitting the road sounds like a lonely endeavor -- well, like many things in life, it will be what you make it to be. There are so many options for meeting other travelers: you might meet people at your campground or your neighbors out in the boondocks or you can go straight to the source and join an RVing group.
