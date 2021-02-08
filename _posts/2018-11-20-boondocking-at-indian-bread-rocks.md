@@ -22,13 +22,14 @@ So we actually first learned of this spot from fellow RVers Drivin & Vibin. It w
 * Cell reception was a bit spotty and sluggish (we have both AT&T and Verizon) but workable
 * With the rain we had, there were a couple waterfalls nearby and we loved climbing up all the giant boulders
 
+&nbsp;
 {% include image.html img="BRM.jpg" title="Woman sitting on jumbo rocks" caption="Rock scrambling has become one of my favorite pastimes" %}
 
-If you've watched our YouTube video of this stop, then you know that our time here was kind of magical. We had a couple nights of intense lightning and thunderstorms, which I actually loved -- our pup Paco not so much. I was able to capture some great footage of the lightning bolts using the 240 fps slo-mo setting on my phone. At that speed, it records in 720p quality, so not terribly ideal, but it really allows you to capture details you would've otherwise missed.
+If you've watched our YouTube video of this stop, then you know that our time here was kind of magical. We had a couple nights of intense lightning and thunderstorms, which I actually loved (our pup Paco not so much). I was able to capture some great footage of the lightning bolts using the 240 fps slo-mo setting on my phone. At that speed, it records in 720p quality, so that's not ideal, but it really allows you to capture details you would've otherwise missed.
 
 {% include image.html img="BRbolt.jpg" title="lightning bolt and rocks" caption="We were given quite the light show" %}
 
-With all the rain, the desert smelled amazing and it increased the flows of the natural springs in the area. I discovered a small waterfall near our campsite and then we found a much larger one down a wash just before you enter the BLM area. We drove to it but be warned, it's a narrow wash with lots of bushes and our little Honda CR-V (our first two car) got pretty scratched up! Once you reach the stream you can walk up the creek to get closer to the falls, and if you are somewhat agile you can climb up the falls quite a ways. On our first visit to the falls we had it all to ourselves. It was so much fun to explore that we went a second time so we could climb up it even further. There was evidence of people (shoes, beer bottles, and towels) but we never saw anyone. Being here when the water flow was strong was really impressive.
+With all the rain, the desert smelled amazing and it increased the flows of the natural springs in the area. I discovered a small waterfall near our campsite and then we found a much larger one down a wash just before you enter the BLM area. We drove to it but be warned, it's a narrow wash with lots of bushes and our little Honda CR-V got pretty scratched up (the dreaded Arizona pinstripes)! Once you reach the stream you can walk up the creek to get closer to the falls, and if you are somewhat nimble you can climb up the falls quite a ways. On our first visit to the falls we had it all to ourselves. It was so much fun to explore that we went a second time so we could climb up it even further. There was evidence of people (shoes, beer bottles, and towels) but we never saw anyone. Being here when the water flow was strong was really impressive.
 
 {% include image.html img="BRwaterfall.jpg" title="Man next to waterfall" caption="We loved all the drops and segments of the waterfall" %}
 
