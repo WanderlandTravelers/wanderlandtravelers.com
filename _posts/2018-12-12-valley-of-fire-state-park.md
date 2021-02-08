@@ -19,6 +19,7 @@ As you enter Valley of Fire State Park it doesn't take long to see what a visual
 * Hiking details for the Fire Wave, White Domes, and Rainbow Vista trails are down below
 * Check out our [Lake Mead](https://wanderlandtravelers.com/2018/12/05/boondocking-at-stewarts-point-lake-mead-nevada/) post to see where we camped!
 
+&nbsp;
 {% include image.html img="VF2.jpg" title="Red and white striped sandstone" caption="One of the many amazing views on the Fire Wave Trail" %}
 
 There aren't too many times that we bring our RV into state or national parks but whenever we do we love having everything we need that much closer. We travel with our dogs and it makes it easy to pop in anytime to check on them. We also love having our kitchen on site and a change of clothes if needed. In Valley of Fire I started the day in jeans but changed into shorts by the afternoon.
