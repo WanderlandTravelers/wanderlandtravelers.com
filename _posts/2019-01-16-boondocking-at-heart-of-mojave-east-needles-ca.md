@@ -19,6 +19,7 @@ Sometimes you just need a place to stay the night and we'll always choose BLM la
 * GPS 34.594137, -114.632756
 * This is no-frills, side of the highway boondocking but there are pretty mountain views and if you have a more rugged vehicle you could go further in
 
+&nbsp;
 {% include image.html img="Mojave4.jpg" title="Solar panel and distant mountains" caption="You can see another rig has driven closer to the mountains " %}
 
 Our intention was to be here only for one night but when we went to roll out the next day, we turned on our Tire Pressure Monitoring System (TPMS) and one of our RV tires was registering a psi of only 45 when we usually keep it around 95psi. We checked it out and could see that we had a nail in the tire and knew it wasn't really safe to drive on. Thankfully we have roadside assistance through our vehicle insurance, and after a relatively painless phone call to Progressive, we set an appointment to have them come by in the morning.
