@@ -17,8 +17,8 @@ We hadn't quite figured out where we were going to be for Christmas this year bu
 * GPS 33.3771, -114.7057
 * We were here Dec. 23-29, 2018 and had mild weather with some windy days
 * We paid $10 to fill our water at nearby Karl'z Country Store
-* You can see more photos and reviews on [Campendium](https://www.campendium.com/cibola-colorado-river-camping-area)
 
+&nbsp;
 {% include image.html img="Hippie2.jpg" title="Two people with a big RV in a spacious sandy campsite" caption="This definitely makes the list of one of our favorite campsites" %}
 
 As you pull into this camping area, you'll see 6 pull through spaces, each with a covered picnic table, fire ring, and trash can. There's a vault toilet at the north end of the gravel lot and the public beach is at that end as well. When we arrived there was only one other camper and instead of the pull through spaces, they had actually chosen a spot right next to the water. We saw a nice big fire ring at another spot right on the water, and the very southern end of the lot, so we thought why not! This gave us a lot of privacy, with thick bushes on either side of us, and there was water access right from the site -- although the climb down to it was quite steep.
