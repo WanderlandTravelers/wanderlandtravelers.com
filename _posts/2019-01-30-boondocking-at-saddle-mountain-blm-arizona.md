@@ -16,8 +16,8 @@ I'm not sure when I first saw photos of this camping area on social media but I 
 * GPS 33.464, -113.0366
 * We were here Jan.6-9, 2019 and had daytime highs in the 50s & 60s, lows in the upper 30s
 * It's a very rough road at the GPS listed above. We would recommend trying the road 2000' down the highway -- we saw many more rigs over there, leading us to believe that area is more accessible
-* You can see more photos and reviews on [Campendium](https://www.campendium.com/saddle-mountain)
 
+&nbsp;
 {% include image.html img="Saddle2.jpg" title="Yellow daisies with blurry RV in the background" caption="Wildflowers make any campsite 100x better" %}
 
 As mentioned, the road listed at the GPS is pretty dang rough and rocky but we went slowly and were able to make it a few sites in from the road. Some more adventurous souls went in further, a class C was several hundred feet beyond us and a skoolie bus was all the way at the base of the mountain. What we didn't like about the road was that one side is a lot higher than the other, coupled with rocky terrain, rutted spots, and it was narrow. There just wasn't a need to push our luck by going in further so we didn't!
