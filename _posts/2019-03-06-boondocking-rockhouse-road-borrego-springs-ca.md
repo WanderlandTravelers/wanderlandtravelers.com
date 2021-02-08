@@ -9,6 +9,8 @@ category:
 img: Anza1.jpg
 ---
 
+**Boondocking is no longer allowed on Rockhouse Road -- check [Campendium](http://www.campendium.com) for other options nearby -- but read on to learn of great things to do in the area!**
+
 It was probably in December when my sister shared with me that a super bloom was expected in the California deserts this spring. I didn't really know if our schedule would line up but it certainly stayed in the back of my mind. The heart of the super bloom was predicted for late February/early March and unfortunately we ended up having plans and reservations elsewhere during that time frame. We were however able to visit the Anza Borrego desert in early February to witness what was called the first pulse of the super bloom. The base camp for our stay near Borrego Springs was a popular free camping area called Rockhouse Trail Road.
 
 ### THE QUICK DETAILS
@@ -18,8 +20,8 @@ It was probably in December when my sister shared with me that a super bloom was
 * We were here Feb. 10-17, 2019 and had daytime temps in the low 60s, overnight lows in the 40s
 * The camping area is mostly dirt and gravel and can easily accommodate 50+ rigs
 * Cell service varies greatly throughout the area and we had the best speeds closest to the highway on AT&T
-* You can see more photos and reviews on [Campendium](https://www.campendium.com/rockhouse)
 
+&nbsp;
 {% include image.html img="Anza3.jpg" title="RVs in a dirt lot with mountains" caption="Our view out the living room window" %}
 
 This boondocking site is generally not our preferred way to camp: an open dirt lot surrounded by several other campers, no real privacy and little to prevent someone from parking right next to you -- which did happen here...but what can you do, it's public land and everyone has a right to be here. Best to just enjoy your beautiful surroundings and make a new friend!
