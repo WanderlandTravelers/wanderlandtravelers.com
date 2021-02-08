@@ -18,8 +18,8 @@ The Anza Borrego Desert State Park in southeastern California is a dramatic dese
 * We were here Feb. 6-9, 2019 and had pretty comfortable weather with highs in the 60s, lows in the mid30s
 * There are only a few sites available at the Overlook but much boondocking is available throughout the state park
 * The access road is a little rugged, so we prefer to enter and exit at the western end of the Overlook
-* You can see more photos and reviews on [Campendium](https://www.campendium.com/carrizo-badlands-overlook)
 
+&nbsp;
 {% include image.html img="Carrizo3.jpg" title="Pastel sunset over golden badlands" caption="View of the badlands from the overlook" %}
 
 The last time we stayed here we had several days of strong wind, lots of rain, and more than a couple rainbows. We didn't have our 4x4 vehicle at that time but we noticed a Jeeping group head down into Canyon Sin Nombre, which is what the Overlook faces. On this visit we were excited to take our Xterra Off Road off-roading. The 4x4 trail is rated as easy but the first mile has a handful of tricky sections. The rest of the 6 mile loop is pretty easy going but with some areas of deep soft sand to be aware of.
