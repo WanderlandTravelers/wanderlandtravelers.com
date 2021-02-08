@@ -19,6 +19,7 @@ It surprised us to learn that the Desert National Wildlife Refuge -- just about 
 * There is a very slow water bottle fountain near the bathrooms at the visitor's center. We painstakingly filled our 5 gallon jug here
 * There are fun exhibits in the visitor's center and a scenic 4x4 drive up Mormon Well Rd
 
+&nbsp;
 {% include image.html img="CC3.jpg" title="RV with colorful sunrise and mountains" caption="This is a great reminder why it's good to be up before the sun sometimes" %}
 
 We stayed here December 15-16, 2018. The first two sites that you encounter (after turning left just past the visitor's center) were full so we had to continue another 2 miles down the gravel road. We started thinking we weren't going to find anything but ended up finding a wide wash that was good enough for a couple nights and there wasn't any rain in the forecast. We had a ranger come by our site just to make sure we knew there was a 14 day stay limit. He also let us know there was some allowed hunting happening within the refuge (I think he said sheep hunting!). It was just a short stay for us so that we could be close to Las Vegas for some mechanic work but we did still enjoy our time here.
