@@ -9,7 +9,7 @@ category:
 img: Elijo1.jpg
 ---
 
-As much as we love to boondock in the middle of nowhere, we still find ourselves drawn to certain destinations and we're definitely willing to spend a little cash to be there. Whenever possible, our favorite option is to stay in state park campgrounds -- there's usually plenty of natural beauty, you'll typically find much better rates than private RV parks, they are often close to bike paths, and when you're along the California coast it's just one of the best ways to be able to stay beachfront. We lived in North San Diego County for two years before we hit the road and we still love what the area has to offer: that laid back surf town vibe, beautiful beaches, healthy restaurants, great breweries and so much recreation.
+As much as we love to boondock in the middle of nowhere, we still find ourselves drawn to certain destinations and we're definitely willing to spend a little cash to be there. Whenever possible, our favorite option is to stay in state park campgrounds -- there's usually plenty of natural beauty, you'll typically find much better rates than private RV parks, they are often close to bike paths, and when you're along the California coast it's just one of the best ways to be able to stay beachfront. We lived in North San Diego County for two years before we hit the road and we still love what the area has to offer: that laid back surf town vibe, beautiful beaches, healthy restaurants, great breweries, and so much recreation.
 
 {% include image.html img="Elijo3.jpg" title="Two people on a trail overlooking the ocean" caption="Enjoying a sweet little trail in the Self Realization Fellowship gardens" %}
 
