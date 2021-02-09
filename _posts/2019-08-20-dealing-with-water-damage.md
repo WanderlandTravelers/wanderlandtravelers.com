@@ -8,7 +8,7 @@ category:
 img: Trailer13.jpg
 ---
 
-Smells and odors can reveal a lot about the state of an RV, so the first time we checked our trailer I stepped inside and took a big whiff. There was a hint of a warm plastic that greeted my nostrils but that was all. No musty or mildew smells. No red flags. 
+Smells and odors can reveal a lot about the state of an RV, so the first time we checked out our trailer I stepped inside and took a big whiff. There was a hint of a warm plastic that greeted my nostrils but that was all. No musty or mildew smells. No red flags. 
 
 However, after moving on board I noticed there was a small tear in the wallpaper, inside the bunk/cabinet area over the bed. I pushed on it and sure enough it felt soft. Dang. I was concerned about the possibility of mold so I peeled back a little wallpaper and sent a spore sample to a local lab for testing. It turned out that yes, there were mold spores on the sample I sent. It wasn't toxic mold, but I was told it was definitely something that should be addressed and just because this one area didn't have toxic mold doesn't mean other water damaged areas would be safe. This helped solidify our plan to head to Utah (from Oregon) where we could park the trailer my father-in-law's shop, air it out in the low humidity, and if needed, be able to open up the walls in a protected environment.
 
@@ -17,7 +17,7 @@ However, after moving on board I noticed there was a small tear in the wallpaper
 
 Amazingly, the shop had an attached apartment so we were able to move everything out of the trailer and have a space for ourselves and the dogs while we worked.
 
-Brad actually took a week off work so that we could dive into the project with the goal of wrapping it up within a couple weeks. Oh how naive we were!
+Brad took a week off work so that we could dive into the project with the goal of wrapping it up within a couple weeks. Oh how naive we were!
 
 {% include image.html img="Trailer7.jpg" title="trailer is a shop being worked on" caption="We were so thankful to have access to this amazing workspace with every tool we could imagine" %}
 
