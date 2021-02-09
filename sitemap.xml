@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://wanderlandtravelers.com/authors/maggie/</loc>
-<lastmod>2021-02-09T21:55:50+00:00</lastmod>
+<lastmod>2021-02-09T21:56:41+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/10/18/welcome-to-our-blog/</loc>
@@ -133,12 +133,12 @@
 <lastmod>2020-08-02T16:16:25+00:00</lastmod>
 </url>
 <url>
-<loc>https://wanderlandtravelers.com/2020/08/06/crystal-crane-hot-springs-in-eastern-oregon/</loc>
-<lastmod>2020-08-06T16:21:34+00:00</lastmod>
-</url>
-<url>
 <loc>https://wanderlandtravelers.com/2020/12/23/2020-our-year-in-review/</loc>
 <lastmod>2020-12-23T15:51:43+00:00</lastmod>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/2021/02/09/crystal-crane-hot-springs-in-eastern-oregon/</loc>
+<lastmod>2021-02-09T16:21:34+00:00</lastmod>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/about/</loc>
@@ -219,10 +219,10 @@
 <loc>https://wanderlandtravelers.com/category/best-drives/</loc>
 </url>
 <url>
-<loc>https://wanderlandtravelers.com/category/hot-springs/</loc>
+<loc>https://wanderlandtravelers.com/category/year-in-review/</loc>
 </url>
 <url>
-<loc>https://wanderlandtravelers.com/category/year-in-review/</loc>
+<loc>https://wanderlandtravelers.com/category/hot-springs/</loc>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2018/</loc>
@@ -265,6 +265,12 @@
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/2020/07/</loc>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/2021/</loc>
+</url>
+<url>
+<loc>https://wanderlandtravelers.com/2021/02/</loc>
 </url>
 <url>
 <loc>https://wanderlandtravelers.com/page2/</loc>
