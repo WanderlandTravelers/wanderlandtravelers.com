@@ -7,6 +7,7 @@ category:
 - California
 - Free Camping
 - Favorite Campsites
+- Best Drives
 img: ABHills1.jpg
 ---
 
@@ -40,4 +41,10 @@ The town of Lone Pine is small but charming and we enjoyed many visits into town
 
 This area is becoming more and more popular so if you need a back-up camping location there are a number of options nearby. We've dry camped at Portugese Joe (formerly Portagee Joe) which is just off Whitney Portal Road on the way up to the Alabama Hills -- most sites are first come/first serve and we appreciated the shade trees, water spigot, and great cell service. There are also vault toilets and bottle/can recycling. We've also stayed at Boulder Creek RV Resort which is a bit further from the Hills but offers full hook-up sites and has a hot tub. While we haven't stayed at Tuttle Creek Campground, we have used the dump station there for a small fee but it's a good idea to check recent reviews on [Campendium](https://www.campendium.com/tuttle-creek-campground) to see if everything there has been opened for the season.
 
+<br/>
+Be sure to check out our most recent video staying at this gorgeous location:
+{% youtube"https://youtu.be/NF8gIHSkymg" %}
+
+
+<br/>
 Have you visited the Alabama Hills or has it made it onto your travel list? This beautiful and unique area is well worth the stop and there's plenty more to see up Highway 395!
