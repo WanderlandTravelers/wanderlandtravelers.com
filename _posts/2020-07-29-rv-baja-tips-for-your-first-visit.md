@@ -113,4 +113,10 @@ It wasn't possible to directly fill the RV, so we used our two portable 6-gallon
 
 {% include image.html img="Baja8.jpg" title="rocky beach with ocean and off shore sea stacks" caption="Waterfront camping in Gonzaga Bay" %}
 
+<br/>
+Our video covering these topics
+{% youtube"https://youtu.be/CBUQKqH4lYg" %}
+
+
+<br/>
 Have you taken your RV to Baja? Drop us a comment, we'd love to hear about your experience. If you have other questions for us, we'll do our best to help or direct you to the resources we found helpful! Cheers and happy travels.
