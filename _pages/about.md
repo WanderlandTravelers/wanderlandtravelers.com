@@ -1,5 +1,5 @@
 ---
-title: We are the <br> Wanderland Travelers
+title: Team Wanderland Travelers
 layout: page
 permalink: "/about/"
 img: UsFloridaFamily.jpg
