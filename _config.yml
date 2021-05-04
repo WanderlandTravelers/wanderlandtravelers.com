@@ -10,12 +10,12 @@ carousel_images:
     alt: Panoramic view of monument valley
   - file: 6.Redwoods.jpg
     alt: Ferns and abundant green in a forest
-  - file: 2.FendyAZ.jpg
-    alt: Fendy in Arizona
-  - file: 4.Monterey.jpg
-    alt: Beach and lights at sunset
+  - file: 5.BigSur.jpg
+    alt: Bridge in Big Sur
   - file: 3.Cacti.jpg
     alt: Epic cacti
+  - file: 4.Monterey.jpg
+    alt: Beach and lights at sunset
 defaults:
   - scope:
       path: ''
