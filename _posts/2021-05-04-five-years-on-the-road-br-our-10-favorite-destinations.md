@@ -9,7 +9,7 @@ category:
 img: FiveYears11.jpg
 ---
 
-Being full-time RVers, you can imagine that the number one question we get asked is about the most favorite place that we've been. It's such a tough question to answer because we've fallen in love with many different places for many different reasons. However today we're going to try and narrow down five years of travel to a list of our Top Ten destinations that we've been and why they're so fantastic. In no particular order:
+Being full-time RVers, you can imagine we're often being asked what our favorite destination has been. It's such a tough question to answer because we've fallen in love with many different places for many different reasons. However today we're going to try and narrow down five years of travel to a list of our Top Ten destinations that we've been and why they're so fantastic. In no particular order:
 
 ### 1. THE FLORIDA KEYS
 
